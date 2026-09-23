@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ayn-hamurdan.vercel.app/sitemap.xml
