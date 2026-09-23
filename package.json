@@ -1,7 +1,1 @@
-{
-  "name":"ayni-hamurdan",
-  "version":"1.0.0",
-  "private":true,
-  "scripts":{"start":"node server.js"},
-  "engines":{"node":">=20"}
-}
+{"name":"ayn-hamurdan","version":"1.0.0","private":true}
