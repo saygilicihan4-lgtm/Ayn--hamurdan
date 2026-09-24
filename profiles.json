@@ -2909,57 +2909,82 @@
     "name": "Jorge Luis Borges",
     "cat": "Edebiyat",
     "origin": "Yabancı",
-    "desc": "Jorge Luis Borges; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Jorge Luis Borges, 1899 Buenos Aires doğumlu Arjantinli şair, denemeci ve öykücüdür. İngilizce ve İspanyolcanın birlikte konuşulduğu kitaplarla dolu bir evde büyüdü; ailesiyle Avrupa'ya giderek Cenevre'de ve daha sonra İspanya'da yaşadı. Ultraist çevrelerle temasının ardından 1921'de Buenos Aires'e döndü, edebiyat dergilerine katkıda bulundu ve 1923'te ilk şiir kitabı Fervor de Buenos Aires'i yayımladı. 1930'lar ve 1940'larda deneme, çeviri ve kısa öykü alanında yoğunlaştı; Ficciones ve El Aleph labirentler, sonsuzluk, aynalar, hayali kitaplar, kimlik ve zaman üzerine kurduğu özgün edebi evreni dünya çapında etkili hale getirdi. Görme yetisini giderek kaybetmesine rağmen yazmayı ve konferans vermeyi sürdürdü; 1955'te Arjantin Ulusal Kütüphanesi direktörü oldu. 1979 Cervantes Ödülü'nü paylaştı ve 1986'da Cenevre'de öldü. Mirası, kısa öyküyü felsefe, matematik ve metafizikle buluşturarak modern ve postmodern edebiyatın pek çok yazarını etkilemesidir.",
+    "theme": "Tema: Buenos Aires · Cenevre · Ultraizm · Fervor de Buenos Aires · Ficciones · El Aleph · körlük · Ulusal Kütüphane · Cervantes · labirent ve sonsuzluk",
+    "sources": [
+      "Library of Congress — Jorge Luis Borges",
+      "Instituto Cervantes — Borges biography"
+    ]
   },
   {
     "name": "Virginia Woolf",
     "cat": "Edebiyat",
     "origin": "Yabancı",
-    "desc": "Virginia Woolf; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Virginia Woolf, 1882 Londra doğumlu İngiliz romancı, denemeci ve yayıncıdır. Leslie Stephen ve Julia Prinsep Stephen'ın geniş kültürel çevresinde büyüdü; evdeki büyük kütüphane ve özel eğitim, üniversiteye gidemediği dönemde entelektüel gelişiminin temelini oluşturdu. Anne ve babasının ölümleriyle bağlantılı ağır psikolojik krizler yaşadı. Kardeşleriyle Bloomsbury'ye taşınması, daha sonra Bloomsbury Group olarak bilinen sanatçı ve düşünür çevresinin oluşumuna katkı verdi. 1912'de Leonard Woolf ile evlendi; birlikte 1917'de Hogarth Press'i kurarak kendi eserlerinin yanı sıra önemli modernist yazarları yayımladılar. Mrs Dalloway, To the Lighthouse ve The Waves'te bilinç akışı, zaman ve karakterlerin iç dünyasını deneysel biçimde kullandı. A Room of One's Own kadınların yazabilmesi için ekonomik ve fiziksel bağımsızlığın önemini tartışan kalıcı bir metne dönüştü. 1941'de hayatına son verdi. Mirası modernist romanın anlatı imkânlarını genişletmesi, yayıncılık ile yazarlığı birleştirmesi ve kadınların edebi üretim koşullarını sorgulamasıdır.",
+    "theme": "Tema: Londra · ev eğitimi · kayıplar · Bloomsbury · Leonard Woolf · Hogarth Press · Mrs Dalloway · To the Lighthouse · bilinç akışı · A Room of One's Own",
+    "sources": [
+      "British Library — Virginia Woolf collections and biography"
+    ]
   },
   {
     "name": "Franz Kafka",
     "cat": "Edebiyat",
     "origin": "Yabancı",
-    "desc": "Franz Kafka; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Franz Kafka, 1883 Prag doğumlu Almanca yazan Bohemyalı yazardır. Almanca konuşan Yahudi bir ailede büyüdü; Prag Alman Üniversitesi'nde hukuk eğitimi aldı ve 1906'da doktorasını tamamladı. Sigorta kurumlarında çalışırken geceleri yazdı; bürokrasi ve iş yaşamının yazmaya ayırdığı zamanı sınırlaması onun sürekli gerilimlerinden biriydi. Max Brod ile yakın dostluğu edebi hayatında belirleyici oldu. The Metamorphosis, The Judgment ve In the Penal Colony gibi metinleri yaşarken yayımlandı; The Trial, The Castle ve Amerika gibi büyük romanları tamamlanmadan kaldı. Kafka, ölümünden önce Brod'dan yayımlanmamış elyazmalarını yakmasını istedi ancak Brod bu isteğe uymayarak eserleri yayımladı. 1924'te verem nedeniyle 40 yaşında öldü. Ölümünden sonra eserlerindeki yabancılaşma, anlaşılmaz otorite, suçluluk ve bürokratik çıkmazlar o kadar etkili oldu ki 'Kafkaesque' kavramı gündelik dile girdi. Mirası, sıradan insanın görünmez ve anlaşılması güç sistemler karşısındaki sıkışmışlığını modern edebiyatın en güçlü imgelerinden bazılarına dönüştürmesidir.",
+    "theme": "Tema: Prag · Yahudi aile · hukuk · sigorta işi · gece yazarlığı · Max Brod · Metamorphosis · The Trial · The Castle · verem · Kafkaesque",
+    "sources": [
+      "Encyclopaedia Britannica — Franz Kafka biography"
+    ]
   },
   {
     "name": "George Orwell",
     "cat": "Edebiyat",
     "origin": "Yabancı",
-    "desc": "George Orwell; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "George Orwell, 1903'te Britanya Hindistanı'nın Motihari kentinde Eric Arthur Blair adıyla doğan İngiliz romancı, gazeteci ve denemecidir. İngiltere'de eğitim gördükten sonra 1922'de Burma'daki Imperial Police'e katıldı; sömürge yönetiminin uygulamalarına tanıklığı onu emperyalizme karşı güçlü biçimde etkiledi ve 1927'de görevinden ayrıldı. Paris ve Londra'da yoksulluk içinde yaşayarak yaptığı gözlemler Down and Out in Paris and London'a dönüştü. Kuzey İngiltere'deki işçi ve madenci yaşamını araştırması The Road to Wigan Pier'i doğurdu. İspanya İç Savaşı'nda Cumhuriyetçi tarafta savaştı ve boğazından vuruldu; Homage to Catalonia bu deneyimi anlattı. II. Dünya Savaşı yıllarında BBC ve Tribune'de çalıştı. Animal Farm totaliter iktidarın devrimci idealleri nasıl bozabileceğini alegoriyle, Nineteen Eighty-Four ise gözetim, propaganda ve dil kontrolü üzerinden anlattı. 1950'de verem nedeniyle 46 yaşında öldü. Orwell'ın mirası, siyasi görüşlerini değişmez dogmalardan çok bizzat gördüğü yoksulluk, savaş, sömürgecilik ve propaganda deneyimleri üzerinden sınayan açık, doğrudan yazı anlayışıdır.",
+    "theme": "Tema: Eric Blair · Hindistan · Burma Police · anti-emperyalizm · yoksulluk deneyimi · Wigan · İspanya İç Savaşı · Animal Farm · 1984 · propaganda ve dil",
+    "sources": [
+      "The Orwell Foundation — George Orwell biography"
+    ]
   },
   {
     "name": "Agatha Christie",
     "cat": "Edebiyat",
     "origin": "Yabancı",
-    "desc": "Agatha Christie; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Agatha Christie, 1890'da Torquay'de doğan İngiliz polisiye yazarı ve oyun yazarıdır. Evde eğitim gördü ve çocukluğundan itibaren hikâyeler yazdı. I. Dünya Savaşı sırasında gönüllü hemşire ve daha sonra eczane dispanserinde çalışması, zehirler hakkındaki bilgisini ileride polisiye romanlarında ayrıntılı biçimde kullanmasına yardımcı oldu. İlk romanı The Mysterious Affair at Styles, Belçikalı dedektif Hercule Poirot'yu okurlarla tanıştırdı. Miss Marple daha sonra ikinci büyük dedektif karakteri oldu. 1926'da kısa süreli gizemli kayboluşu kamuoyunda büyük ilgi yarattı. Arkeolog Max Mallowan ile ikinci evliliğinin ardından Orta Doğu kazılarına yaptığı yolculuklar Murder on the Orient Express ve Death on the Nile gibi eserlerinin dünyasına malzeme sağladı. 66 dedektif romanı ve 14 öykü koleksiyonu yazdı; The Mousetrap dünya tiyatro tarihinin en uzun süre sahnelenen oyunlarından biri oldu. 1976'da öldü. Christie'nin kalıcı etkisi, okura bütün ipuçlarını sunarken şaşırtıcı çözümler kurabilen matematiksel denebilecek olay örgüsü disiplini ve unutulmaz dedektif karakterleridir.",
+    "theme": "Tema: Torquay · ev eğitimi · savaş hemşireliği · eczane ve zehir bilgisi · Hercule Poirot · 1926 kayboluş · Max Mallowan · Miss Marple · Orient Express · The Mousetrap",
+    "sources": [
+      "Agatha Christie official — About Christie"
+    ]
   },
   {
     "name": "Ernest Hemingway",
     "cat": "Edebiyat",
     "origin": "Yabancı",
-    "desc": "Ernest Hemingway; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Ernest Hemingway, 1899 Oak Park, Illinois doğumlu Amerikalı romancı, öykücü ve gazetecidir. 17 yaşında Kansas City'de gazetecilik yapmaya başladı. I. Dünya Savaşı sırasında İtalya'da gönüllü ambulans birliğine katıldı, cephede ağır yaralandı ve uzun süre hastanede kaldı. Savaş sonrası gazetecilik için Avrupa'ya döndü ve 1920'lerin Paris'indeki Amerikalı yazar çevresinin parçası oldu. The Sun Also Rises ve A Farewell to Arms savaş sonrası kuşağın hayal kırıklığını yalın ve ekonomik bir dille anlattı. İspanya İç Savaşı'nı gazeteci olarak izledi; deneyimler For Whom the Bell Tolls'a temel oldu. II. Dünya Savaşı'nı da takip etti. The Old Man and the Sea 1952'de büyük başarı kazandı; 1954 Nobel Edebiyat Ödülü, anlatı sanatındaki ustalığı ve çağdaş üsluba etkisi gerekçesiyle verildi. Aynı yıl iki uçak kazasından sağ çıktı ancak ciddi sağlık sorunları yaşadı. 1961'de Idaho'da hayatına son verdi. Hemingway'in mirası, kısa cümle, eksiltme ve yüzeyin altında bırakılan anlamla oluşturduğu güçlü anlatı ekonomisinin 20. yüzyıl düzyazısını derinden etkilemesidir.",
+    "theme": "Tema: Oak Park · 17 yaşında gazetecilik · I. Dünya Savaşı · yaralanma · Paris · The Sun Also Rises · İspanya İç Savaşı · The Old Man and the Sea · 1954 Nobel · yalın üslup",
+    "sources": [
+      "Nobel Prize — Ernest Hemingway facts and biography"
+    ]
   },
   {
     "name": "Maya Angelou",
     "cat": "Edebiyat",
     "origin": "Yabancı",
-    "desc": "Maya Angelou; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Maya Angelou, 1928 St. Louis doğumlu Amerikalı şair, anı yazarı, sanatçı, eğitimci ve sivil haklar aktivistidir. Marguerite Johnson adıyla doğdu; çocukluğunda yaşadığı cinsel saldırının ardından yaklaşık beş yıl konuşmadı. Bu sessizlik döneminde edebiyata ve sözcüklerin gücüne yoğun biçimde bağlandı; öğretmeni Mrs. Flowers onu yeniden konuşmaya teşvik etti. Genç yaşta San Francisco'da tramvay kondüktörü olarak çalışan ilk Siyah kadınlardan biri oldu; daha sonra dansçı, şarkıcı ve oyuncu olarak sahne kariyeri geliştirdi. Martin Luther King Jr. ve Malcolm X ile sivil haklar hareketinde çalıştı; Kahire ve Gana'da gazetecilik yaptı. James Baldwin'in teşvikiyle yazdığı I Know Why the Caged Bird Sings 1969'da yayımlanarak çocukluk travmasını ve Siyah kadın deneyimini Amerikan edebiyatının merkezine taşıdı. Şiir, senaryo, yönetmenlik ve akademide üretimini sürdürdü; 1993'te Bill Clinton'ın başkanlık yemin töreninde On the Pulse of Morning şiirini okudu. 2014'te öldü. Mirası, kişisel travma ve sessizlikten doğan sesi edebiyat, performans ve sivil haklar mücadelesinde kolektif bir anlatıya dönüştürmesidir.",
+    "theme": "Tema: St. Louis · çocukluk travması · beş yıllık sessizlik · Mrs. Flowers · tramvay kondüktörlüğü · sanat · King ve Malcolm X · Gana · Caged Bird · şair ve aktivist",
+    "sources": [
+      "Poetry Foundation — Maya Angelou biography"
+    ]
   },
   {
     "name": "Simone de Beauvoir",
     "cat": "Edebiyat",
     "origin": "Yabancı",
-    "desc": "Simone de Beauvoir; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Simone de Beauvoir, 1908 Paris doğumlu Fransız filozof, romancı, denemeci ve feminist düşünürdür. Burjuva bir ailede yetişti; genç yaşta dini inancını kaybederek eğitim ve yazarlığı bağımsız yaşamının temeli haline getirdi. Sorbonne çevresinde felsefe eğitimi aldı ve 1929 agrégation sınavında ikinci oldu; aynı dönemde Jean-Paul Sartre ile ömür boyu süren entelektüel ortaklığı başladı. Öğretmenlik yaptıktan sonra roman, deneme, anı ve felsefi çalışmalar yayımladı. 1949 tarihli The Second Sex, kadınlığın biyolojik kaderden çok tarihsel, toplumsal ve kültürel süreçlerle kurulduğunu inceleyerek modern feminist düşüncenin en etkili metinlerinden biri oldu. The Mandarins 1954 Prix Goncourt'u kazandı. Beauvoir ayrıca Cezayir Savaşı, kürtaj hakkı ve kadınların siyasal-toplumsal özgürlüğü gibi kamusal tartışmalara aktif biçimde katıldı. 1986'da Paris'te öldü. Mirası, varoluşçu özgürlük ve sorumluluk tartışmasını kadınların somut yaşam koşullarıyla ilişkilendirerek felsefe, edebiyat ve feminist teoriyi aynı üretim hattında buluşturmasıdır.",
+    "theme": "Tema: Paris · felsefe eğitimi · 1929 agrégation · Sartre · varoluşçuluk · 1949 The Second Sex · The Mandarins · Goncourt · kadın özgürlüğü · feminist teori",
+    "sources": [
+      "Encyclopaedia Britannica — Simone de Beauvoir biography"
+    ]
   },
   {
     "name": "Stephen Curry",
