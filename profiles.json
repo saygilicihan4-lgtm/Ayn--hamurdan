@@ -1797,8 +1797,14 @@
     "name": "Asuman Özdağlar",
     "cat": "Bilim",
     "origin": "Türkiye",
-    "desc": "Asuman Özdağlar; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Asuman (Asu) Özdağlar, optimizasyon, oyun teorisi, makine öğrenmesi ve sosyal-ekonomik ağları ortak bir matematiksel çerçevede inceleyen Türk-Amerikalı mühendis ve akademisyendir. ODTÜ Elektrik Mühendisliği'nden 1996'da mezun oldu; MIT'de Elektrik Mühendisliği ve Bilgisayar Bilimleri alanında 1998'de yüksek lisansını, 2003'te doktorasını tamamladı. Aynı yıl MIT EECS fakültesine katıldı ve 2012'de profesör oldu. Laboratory for Information and Decision Systems'ın direktörlüğünü yaptı; 2018'den itibaren MIT EECS bölüm başkanlığını, 2019'dan itibaren Schwarzman College of Computing akademik işlerden sorumlu dekan yardımcılığını üstlendi. Araştırmaları doğrusal olmayan ve konveks optimizasyon, oyun teorisi, dağıtık optimizasyon, ağlarda öğrenme ve bilgi yayılımı, sistemik risk ve insan-makine katılımcılarının bulunduğu veri odaklı çevrimiçi sistemlere uzanır. Eğitim alanında bilgisayar bilimi ile ekonomi ve veri bilimini birleştiren 6-14 lisans programı gibi disiplinler arası müfredat girişimlerinin geliştirilmesine katkıda bulundu. Microsoft Fellowship, NSF CAREER, 2008 Donald P. Eckman Award ve 2014 Spira Teaching Award gibi ödüller aldı; IEEE Fellow seçildi ve International Congress of Mathematicians'a davetli konuşmacı olarak katıldı. Kariyerindeki belirleyici çizgi, matematiksel optimizasyonun soyut araçlarını ekonomik, sosyal ve teknolojik ağlardaki gerçek karar problemleriyle birleştirmesi ve bunu MIT'de eğitim liderliğine taşımasıdır.",
+    "theme": "Tema: ODTÜ'den MIT'ye · optimizasyon · oyun teorisi · ağlar · makine öğrenmesi · disiplinler arası eğitim · akademik liderlik",
+    "sources": [
+      "MIT Schwarzman College of Computing — Asu Ozdaglar leadership profile",
+      "MIT EECS — Asu Ozdaglar, Department Head of EECS",
+      "MIT Operations Research Center — Asu Ozdaglar biographical sketch",
+      "Asu Ozdaglar — MIT Curriculum Vitae"
+    ]
   },
   {
     "name": "Serdar Erener",
