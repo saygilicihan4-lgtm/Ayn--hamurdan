@@ -2294,57 +2294,91 @@
     "name": "Deniz Öncü",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Deniz Öncü; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Deniz Öncü, 26 Temmuz 2003'te Alanya'da doğan milli motosiklet yarışçısıdır. İkiz kardeşi Can ile küçük yaşta yarışmaya başladı. 2017'de Idemitsu Asia Talent Cup şampiyonu oldu; 2018 Red Bull MotoGP Rookies Cup'ı kardeşi Can'ın ardından ikinci tamamladı. 2019'da Moto3 Dünya Şampiyonası'nda seçili yarışlara çıktı, 2020'de tam sezon yarışmaya başladı. 2021'de ilk Moto3 podyumlarını aldı; 2023'te Red Bull KTM Ajo ile Almanya, Avusturya ve Avustralya'da üç Grand Prix kazanarak sezonu dördüncü bitirdi. 2024'te Moto2'ye yükseldi ve Aragon'da ilk Moto2 podyumunu elde etti. 2025'te Aragon'da foto-finişle ilk Moto2 zaferini, Sachsenring'de ikinci galibiyetini aldı; ancak ağustostaki antrenman kazası sezonunu erken bitirdi. 2026'da Marc VDS Racing Team'e geçerek Boscoscuro ile dönüş yaptı. Kariyerinin ana çizgisi, ikiziyle başlayan rekabeti dünya şampiyonası basamaklarına taşıması, Moto3 galibiyetlerinden Moto2 zaferlerine yükselmesi ve ciddi sakatlık sonrası geri dönüş mücadelesidir.",
+    "theme": "Tema: Alanya · ikiz kardeş Can · Asia Talent Cup şampiyonluğu · Rookies Cup · Moto3 · üç 2023 zaferi · Moto2 · Aragon ve Sachsenring zaferleri · sakatlık · Marc VDS",
+    "sources": [
+      "MotoGP — Deniz Öncü resmi sürücü biyografisi ve istatistikleri"
+    ]
   },
   {
     "name": "Cem Bölükbaşı",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Cem Bölükbaşı; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Cem Bölükbaşı, 9 Şubat 1998'de İstanbul'da doğan yarış pilotudur. Motor sporlarına giden yolu geleneksel karting basamaklarından çok sim yarışları ve e-spor üzerinden şekillendi. Sanal yarışlarda uluslararası seviyede kendini gösterdikten sonra gerçek otomobillere geçti; GT4 ve tek koltuklu serilerde yarıştı. 2021'de Euroformula Open'da yarış kazanarak tek koltuklu kariyerinde dikkat çekti. 2022'de Charouz Racing System ile FIA Formula 2 Şampiyonası'na yükseldi ve Formula 2'de yarışan ilk Türk pilot oldu. Böylece e-spordan FIA'nın Formula 1'e giden ana gelişim merdivenlerinden birine ulaşan sıra dışı bir kariyer kurdu. Sonraki dönemde dayanıklılık ve spor otomobil yarışlarına yöneldi. Hikâyesinin merkezinde, simülasyon yarışçılığını yalnız bir oyun alanı olarak değil gerçek pist kariyerine açılan bir eğitim ve rekabet basamağına dönüştürmesi vardır.",
+    "theme": "Tema: İstanbul · sim racing · e-spordan gerçek piste · GT yarışları · Euroformula Open · Formula 2'de ilk Türk · dayanıklılık yarışları",
+    "sources": [
+      "FIA Formula 2 — Reading, racing and gaming: Getting to know the real Cem Bölükbaşı",
+      "FIA Formula 2 — Cem Bölükbaşı driver records"
+    ]
   },
   {
     "name": "Defne Kurt",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Defne Kurt; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Defne Kurt, Türk para yüzme sporcusudur. S5 sınıfında serbest, sırtüstü ve kelebek başta olmak üzere farklı disiplinlerde uluslararası düzeyde yarışır. Genç yaşta yüzmeyi yüksek performans sporuna dönüştürdü ve Türkiye adına Dünya Para Yüzme Serisi ile Avrupa ve dünya düzeyindeki organizasyonlarda önemli sonuçlar elde etti. 2025 Dünya Para Yüzme Şampiyonası'nda birden fazla altın madalya kazanarak Türk para yüzmesinin uluslararası görünürlüğünü yükselten sporculardan biri oldu. Kariyerinde dereceler kadar sınıflandırmasına uygun teknik uyarlama, yoğun antrenman ve farklı stillerde rekabet edebilme kapasitesi öne çıkar. Kurt'un hikâyesi, engelli sporunu yalnız katılım düzeyinde değil dünya şampiyonluğu hedefiyle sürdürülen elit performans alanı olarak temsil etmesiyle önem taşır.",
+    "theme": "Tema: para yüzme · S5 sınıfı · çoklu yüzme stilleri · uluslararası yarışlar · dünya şampiyonluğu · elit performans · Türkiye temsili",
+    "sources": [
+      "World Para Swimming / IPC — Defne Kurt athlete and championship records",
+      "Türkiye Milli Paralimpik Komitesi — Defne Kurt kayıtları"
+    ]
   },
   {
     "name": "Aysu Türkoğlu",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Aysu Türkoğlu; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Aysu Türkoğlu, 2001 doğumlu Türk açık su yüzücüsüdür. Çocukluk yıllarında yüzmeyle tanıştı ve zamanla havuz yarışlarından uzun mesafeli açık su yüzüşlerine yöneldi. 2022'de Manş Denizi'ni İngiltere'den Fransa'ya yüzerek geçen en genç Türk kadın sporcu oldu. Ardından Ocean's Seven olarak bilinen dünyanın zorlu açık su kanallarına odaklandı; Kuzey Kanalı ve Cook Boğazı gibi soğuk, akıntılı ve uzun parkurlarda başarılar elde etti. Bu yüzüşlerde tekne desteği bulunmasına karşın sporcu suya temas etmeden, dışarıdan fiziksel yardım almadan ve kanal yüzme kurallarına bağlı biçimde saatlerce kesintisiz ilerler. Türkoğlu'nun kariyerinin temel çizgisi, genç yaşta uzun mesafe dayanıklılığına yönelmesi, hedeflerini tek bir rekor yerine ardışık küresel kanal geçişleri üzerine kurması ve Türkiye'de açık su yüzücülüğünün görünürlüğünü artırmasıdır.",
+    "theme": "Tema: açık su · Manş Denizi · en genç Türk kadın · Ocean's Seven · Kuzey Kanalı · Cook Boğazı · dayanıklılık · küresel kanal hedefleri",
+    "sources": [
+      "Guinness World Records / kanal yüzme kayıtları",
+      "Anadolu Ajansı — Aysu Türkoğlu açık su yüzüşleri",
+      "Channel Swimming Association kayıtları"
+    ]
   },
   {
     "name": "Isaac Newton",
     "cat": "Bilim",
     "origin": "Yabancı",
-    "desc": "Isaac Newton; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Isaac Newton, 1642'de İngiltere'nin Woolsthorpe kentinde doğan matematikçi ve doğa filozofudur. Trinity College Cambridge'de eğitim gördü. 1665-67 veba yıllarında Cambridge'den ayrılıp Woolsthorpe'a döndüğü dönem, renk ve optik deneyleri, hareket ve kütleçekimi üzerine fikirleri ile kalkülüs yöntemlerinin şekillendiği en üretken dönemlerinden biri oldu. 1669'da Cambridge Lucasian Matematik Profesörü, 1672'de Royal Society üyesi oldu. 1687'de yayımlanan Principia Mathematica'da hareket yasalarını ve evrensel kütleçekimini matematiksel bir çerçevede birleştirerek klasik mekaniğin temelini attı. Opticks çalışması beyaz ışığın renk bileşenleri ve ışığın davranışı üzerine deneylerini sistemleştirdi. Newton yalnız akademide kalmadı; 1696'da Darphane yöneticisi, 1699'da Master of the Mint oldu ve para sisteminin yönetiminde etkin görev aldı. Leibniz ile kalkülüs önceliği ve Robert Hooke ile bilimsel tartışmaları kariyerinin tartışmalı bölümlerindendir. 1727'de öldü ve Westminster Abbey'e gömüldü. Mirası, gözlem, deney ve matematiği aynı fiziksel açıklama içinde birleştirmesidir.",
+    "theme": "Tema: Woolsthorpe · Cambridge · veba yılları · kalkülüs · optik · hareket yasaları · evrensel kütleçekimi · Principia · Royal Society · Darphane",
+    "sources": [
+      "Royal Society — Isaac Newton archival biography",
+      "Royal Society — history and Principia records"
+    ]
   },
   {
     "name": "Charles Darwin",
     "cat": "Bilim",
     "origin": "Yabancı",
-    "desc": "Charles Darwin; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Charles Darwin, 1809'da Shrewsbury'de doğan İngiliz doğa bilimcidir. Çocukluğundan itibaren doğa, bitki ve böcek toplamaya ilgi duydu. 1825'te Edinburgh'da tıp eğitimine başladı ancak dönemin anestezisiz ameliyatlarından etkilenerek tıbbı bıraktı; daha sonra Cambridge'de teoloji okudu. 1831'de HMS Beagle'ın yaklaşık beş yıllık yolculuğuna doğa bilimci olarak katılması yaşamının büyük dönüm noktası oldu. Güney Amerika ve başka bölgelerden topladığı fosiller, hayvanlar, bitkiler ve ayrıntılı saha notları, türlerin değişimi üzerine düşüncelerini besledi. İngiltere'ye 1836'da döndükten sonra yıllarca kanıt topladı. Alfred Russel Wallace'ın benzer bir doğal seçilim fikrine bağımsız olarak ulaşması üzerine iki araştırmacının görüşleri 1858'de Linnean Society'de birlikte sunuldu. Darwin 1859'da On the Origin of Species'i yayımlayarak doğal seçilim yoluyla evrim fikrini kapsamlı kanıtlarla ortaya koydu. Sonraki çalışmalarında insan evrimi, evcilleştirme, bitkiler ve solucanlar gibi geniş konulara yöneldi. Bilimsel mirası, canlı çeşitliliğini ortak köken, kalıtsal varyasyon ve doğal seçilim üzerinden açıklayan modern evrim biyolojisinin temelini oluşturmasıdır.",
+    "theme": "Tema: Shrewsbury · doğa merakı · Edinburgh · Cambridge · HMS Beagle · saha koleksiyonları · Wallace · doğal seçilim · 1859 Origin of Species · evrim biyolojisi",
+    "sources": [
+      "Natural History Museum — Charles Darwin: History's most famous biologist",
+      "Natural History Museum — Alfred Russel Wallace and shared discovery"
+    ]
   },
   {
     "name": "Richard Feynman",
     "cat": "Bilim",
     "origin": "Yabancı",
-    "desc": "Richard Feynman; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Richard Phillips Feynman, 1918'de New York'ta doğan Amerikalı teorik fizikçidir. MIT'de lisans eğitimini tamamladı, 1942'de Princeton'dan doktora aldı. Aynı yıl Manhattan Projesi'ne katılarak Los Alamos'ta grup liderliği yaptı; savaş yılları aynı zamanda tüberküloz hastası ilk eşi Arline Greenbaum'un 1945'teki ölümüyle kişisel olarak ağır geçti. Savaştan sonra Cornell'de, 1950'den itibaren Caltech'te çalıştı. Kuantum elektrodinamiğinde hesaplamaları ve fiziksel süreçleri görselleştiren Feynman diyagramları dahil yöntemleri, parçacık fiziğinin dilini kalıcı biçimde değiştirdi. Julian Schwinger ve Sin-Itiro Tomonaga ile 1965 Nobel Fizik Ödülü'nü paylaştı. Süperakışkan helyum, zayıf etkileşimler ve parton modeli üzerinde de önemli çalışmalar yaptı. 1961-63 derslerinden doğan The Feynman Lectures on Physics, fizik eğitiminde kalıcı bir kaynak oldu. 1986 Challenger uzay mekiği soruşturmasında O-ring malzemesinin soğukta esnekliğini kaybetmesini kamuya açık bir deneyle göstermesi onu geniş kitlelere yeniden tanıttı. 1988'de öldü. Mirası yalnız sonuçlarında değil, karmaşık fiziği sezgi, hesap ve açık anlatımla bir araya getiren problem çözme yaklaşımındadır.",
+    "theme": "Tema: New York · MIT · Princeton · Manhattan Project · Cornell · Caltech · QED · Feynman diyagramları · 1965 Nobel · fizik eğitimi · Challenger soruşturması",
+    "sources": [
+      "Caltech — The Feynman Lectures, About the Authors",
+      "Richard Feynman official biography",
+      "Nobel Prize — 1965 Physics Prize records"
+    ]
   },
   {
     "name": "Grace Hopper",
     "cat": "Bilim",
     "origin": "Yabancı",
-    "desc": "Grace Hopper; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Grace Murray Hopper, 1906'da New York'ta doğan Amerikalı matematikçi, bilgisayar öncüsü ve ABD Deniz Kuvvetleri tuğamiraliydi. Vassar'dan 1928'de mezun oldu; Yale'de 1930'da yüksek lisans, 1934'te matematik doktorası yaptı ve Vassar'da ders verdi. II. Dünya Savaşı sırasında Naval Reserve'e katıldı ve 1944'te Harvard'daki Mark I bilgisayarında çalışmaya başladı. Savaş sonrasında bilgisayarları yalnız uzmanların makine koduyla kullanacağı araçlar olmaktan çıkarma fikrine yoğunlaştı. 1949'da Eckert-Mauchly Computer Corporation'a geçti; derleyici yaklaşımının öncülerinden oldu ve UNIVAC için İngilizceye yakın veri işleme dili FLOW-MATIC'i geliştirdi. Bu yaklaşım daha sonra COBOL'un gelişimini etkiledi; Hopper bilgisayar dillerinin standardizasyonunun güçlü savunucularındandı. Deniz Kuvvetleri kariyerine uzun süre rezerv ve aktif görev arasında devam etti; 1986'da 79 yaşında Rear Admiral (lower half) rütbesiyle emekli olduğunda ABD silahlı kuvvetlerinin aktif görevdeki en yaşlı subaylarından biriydi. 1992'de öldü. Mirası, programlamayı makinenin diline yaklaşmak yerine insan diline yaklaştırma vizyonu, bilgisayar eğitimi ve standartlaşmaya yaptığı katkıdır.",
+    "theme": "Tema: New York · Vassar · Yale doktorası · II. Dünya Savaşı · Harvard Mark I · derleyiciler · UNIVAC · FLOW-MATIC · COBOL · Navy Rear Admiral · insan odaklı programlama",
+    "sources": [
+      "Smithsonian Institution — Grace Hopper: The Navy and Computers",
+      "Smithsonian National Museum of American History — Grace Under Pressure",
+      "Smithsonian Grace Murray Hopper Collection"
+    ]
   },
   {
     "name": "Guido van Rossum",
