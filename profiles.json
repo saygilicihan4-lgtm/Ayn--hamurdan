@@ -1784,8 +1784,14 @@
     "name": "Daron Acemoğlu",
     "cat": "Bilim",
     "origin": "Türkiye",
-    "desc": "Daron Acemoğlu; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Daron Acemoğlu, kurumların, teknolojinin ve siyasal gücün ülkelerin refahını nasıl şekillendirdiğini araştıran İstanbul doğumlu ekonomisttir. 1967'de İstanbul'da doğdu; Galatasaray Lisesi'nin ardından University of York'ta ekonomi lisansını 1989'da, London School of Economics'te matematiksel ekonomi ve ekonometri yüksek lisansını 1990'da ve ekonomi doktorasını 1992'de tamamladı. Kısa süre LSE'de ders verdikten sonra 1993'te MIT'ye katıldı; 2019'da MIT'nin en yüksek akademik unvanı olan Institute Professor oldu. Araştırmaları politik ekonomi, ekonomik kalkınma ve büyüme, emek ekonomisi, eşitsizlik, teknolojik değişim, otomasyon ve ağ ekonomilerini kapsar. James A. Robinson ile yürüttüğü uzun soluklu çalışma, kapsayıcı ve sömürücü kurumların tarihsel olarak nasıl oluştuğunu ve refah farklarının neden kalıcılaşabildiğini inceleyen bir araştırma programına dönüştü; bu yaklaşım Why Nations Fail ve The Narrow Corridor gibi geniş kitlelere ulaşan kitaplara da yansıdı. Simon Johnson ile Power and Progress'te teknolojik ilerlemenin faydalarının kendiliğinden geniş toplum kesimlerine dağılmadığını, teknolojinin yönünün ve kurumsal tercihlerin belirleyici olduğunu tartıştı. 2005 John Bates Clark Medal ve çok sayıda bilimsel ödülün ardından, Simon Johnson ve James A. Robinson ile birlikte 2024 Sveriges Riksbank Ekonomi Bilimleri Ödülü'nü 'kurumların nasıl oluştuğu ve refahı nasıl etkilediğine ilişkin çalışmalar' nedeniyle aldı. Kariyerinin ayırt edici çizgisi, tarihsel verileri ekonomik teoriyle birleştirerek kurumlar, demokrasi, teknoloji ve refah arasındaki uzun dönemli ilişkileri ölçülebilir araştırma sorularına dönüştürmesidir.",
+    "theme": "Tema: İstanbul'dan MIT'ye · kurumlar ve refah · politik ekonomi · teknoloji ve emek · Why Nations Fail · 2024 Ekonomi Bilimleri Ödülü",
+    "sources": [
+      "NobelPrize.org — Daron Acemoglu Facts / 2024 Economic Sciences Prize",
+      "MIT Economics — Daron Acemoglu faculty profile",
+      "MIT News — Acemoglu, Johnson and Robinson 2024 Nobel Prize",
+      "Daron Acemoglu — MIT Curriculum Vitae (2024)"
+    ]
   },
   {
     "name": "Asuman Özdağlar",
