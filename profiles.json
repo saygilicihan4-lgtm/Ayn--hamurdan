@@ -2197,57 +2197,98 @@
     "name": "Volkan Demirel",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Volkan Demirel; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Volkan Demirel, 27 Ekim 1981'de İstanbul'da doğan eski milli kaleci ve teknik direktördür. Kartalspor'da profesyonel futbola başladı; 2002'de Fenerbahçe'ye transfer oldu ve 2019'a kadar kulübün kalesini koruyarak kariyerinin neredeyse tamamını sarı-lacivertli takımda geçirdi. Lig kayıtlarında Fenerbahçe ile yüzlerce maça çıktı; şampiyonluklar yaşadı ve 2007-08 Şampiyonlar Ligi'nde çeyrek finale ulaşan kadronun önemli isimlerinden biri oldu. Türkiye A Milli Takımı'nda 2004-2014 arasında 63 kez forma giydi ve EURO 2008'de yarı finale ulaşan kadroda yer aldı. 2019'da futbolculuğu bıraktıktan sonra Fenerbahçe teknik ekibinde çalıştı; ardından Fatih Karagümrük, Hatayspor, Bodrum ve Gençlerbirliği gibi takımlarda teknik direktörlük yaptı. Özellikle 6 Şubat 2023 depremleri sırasında Hatayspor teknik direktörü olarak yaşadığı süreç, futbol kariyerinin çok ötesine geçen ağır bir yaşam dönüm noktası oldu. Kariyer çizgisi, alt ligden Fenerbahçe'nin uzun süreli birinci kaleciliğine ve oradan teknik direktörlüğe uzanan istikrar, liderlik ve kriz deneyimiyle öne çıkar.",
+    "theme": "Tema: Kartalspor · Fenerbahçe'de 17 yıl · şampiyonluklar · Şampiyonlar Ligi çeyrek finali · 63 milli maç · EURO 2008 · 2019 emeklilik · teknik direktörlük · Hatay depremi",
+    "sources": [
+      "TFF — Volkan Demirel futbolcu ve milli takım kayıtları",
+      "Fenerbahçe Spor Kulübü — Volkan Demirel kariyer kayıtları",
+      "UEFA — EURO 2008 ve kulüp turnuva kayıtları"
+    ]
   },
   {
     "name": "Çağlar Söyüncü",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Çağlar Söyüncü; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Çağlar Söyüncü, 23 Mayıs 1996'da İzmir'de doğan milli stoperdir. Menemen Belediyespor ve Bucaspor dönemlerinden sonra Altınordu yapılanmasında gelişti; Bölgesel Amatör Lig deneyimini daha sonra zihinsel dayanıklılığını geliştiren önemli bir okul olarak anlattı. 2014-15'te Altınordu ile profesyonel seviyeye çıktı, 2016'da Freiburg'a transfer olarak Bundesliga'ya geçti. İki sezon sonra Leicester City'ye giderek Premier League'e adım attı. Leicester formasıyla 132 resmi maça çıktı ve kulübün 2020-21 FA Cup ile 2021 Community Shield başarılarında yer aldı. 2023'te Atlético Madrid'e transfer oldu; 2024'te önce kiralık, ardından kalıcı olarak Fenerbahçe'ye geçti. A Milli Takım'a 2016'da yükseldi ve 50 milli maç barajını geçti. Hikâyesinin belirleyici tarafı, Türkiye'de alt lig ve gelişim odaklı bir sistemden çıkıp Bundesliga, Premier League ve La Liga seviyelerine ulaşmasıdır.",
+    "theme": "Tema: Menemen · Bucaspor · Altınordu · BAL deneyimi · Freiburg · Leicester City · FA Cup · Atlético Madrid · Fenerbahçe · milli takım",
+    "sources": [
+      "TFF TamSaha — Çağlar Söyüncü: BAL'da piştim",
+      "Atlético de Madrid — Welcome, Söyüncü",
+      "TFF — milli takım kayıtları"
+    ]
   },
   {
     "name": "Merih Demiral",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Merih Demiral; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Merih Demiral, 5 Mart 1998'de Karamürsel'de doğan milli stoperdir. Karamürsel İdmanyurduspor'dan Fenerbahçe altyapısına geçti; genç yaşta Türkiye dışına çıkarak Portekiz'de Alcanenense ve Sporting yapılanmasında oynadı. Alanyaspor ile Türkiye'ye döndükten sonra Sassuolo üzerinden Serie A'da dikkat çekti ve 2019'da Juventus'a transfer oldu. Juventus döneminde ağır diz sakatlığı yaşamasına rağmen yeniden sahalara döndü; ardından Atalanta'ya geçti. 2023'te Suudi Arabistan'ın Al-Ahli kulübüne transfer oldu. Türkiye'nin farklı yaş milli takımlarından A Milli Takım'a yükseldi ve EURO 2020 ile EURO 2024 turnuvalarında yer aldı. Kariyerinin ana çizgisi, altyapıdan ayrıldıktan sonra Portekiz alt basamaklarından başlayıp kendi yolunu kurması, Serie A'nın üst düzey kulüplerine ulaşması ve ciddi sakatlık sonrasında elit seviyeye dönmesidir.",
+    "theme": "Tema: Karamürsel · Fenerbahçe altyapısı · Portekiz'e erken çıkış · Sporting · Alanyaspor · Sassuolo · Juventus · sakatlıktan dönüş · Atalanta · Al-Ahli · milli takım",
+    "sources": [
+      "TFF — Merih Demiral milli takım kayıtları",
+      "Juventus — Merih Demiral kulüp profili ve arşivleri",
+      "UEFA — Türkiye turnuva kayıtları"
+    ]
   },
   {
     "name": "Cengiz Ünder",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Cengiz Ünder; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Cengiz Ünder, 14 Temmuz 1997'de Balıkesir'in Sındırgı ilçesinde doğan milli kanat oyuncusudur. Kendi anlatımına göre futbola tutkusu çocuk yaşta başladı ve henüz 10 yaşındayken ailesinden ayrılarak İzmir'deki Bucaspor altyapısına gitti. Daha sonra Altınordu'ya geçti, burada profesyonel oldu ve İstanbul Başakşehir'deki çıkış sezonunun ardından 2017'de Roma'ya transfer edildi. Serie A'da genç yaşta önemli süreler aldı ve Avrupa kupalarında gol attı. Daha sonra Leicester City'de kiralık oynadı, Marsilya'ya geçti ve Fransa'da düzenli forma giydi. 2023'te Fenerbahçe'ye döndü; kariyerinde daha sonra Beşiktaş'ta kiralık dönem de yaşadı. Türkiye A Milli Takımı'nda genç yaşta forma giymeye başladı. Yaşam öyküsünün merkezinde, küçük bir ilçeden çıkıp 10 yaşında evden ayrılmayı göze alması, Altınordu gelişim modelinden Avrupa'nın büyük liglerine uzanan hızlı yükselişi bulunur.",
+    "theme": "Tema: Sındırgı · 10 yaşında evden ayrılış · Bucaspor · Altınordu · Başakşehir · Roma · Leicester · Marsilya · Fenerbahçe · milli takım",
+    "sources": [
+      "AS Roma — The Big Interview: AS Roma x Cengiz Under",
+      "TFF — Cengiz Ünder futbolcu kayıtları",
+      "UEFA — Cengiz Ünder Avrupa kupası kayıtları"
+    ]
   },
   {
     "name": "Yusuf Yazıcı",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Yusuf Yazıcı; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Yusuf Yazıcı, 29 Ocak 1997'de Trabzon'da doğan milli hücumcu orta saha oyuncusudur. Trabzonspor altyapısında yetişip A takıma yükseldi ve kısa sürede oyun kuruculuk, sol ayak kalitesi ve gol katkısıyla takımın öne çıkan gençlerinden biri oldu. 2019'da Lille'e transfer olarak Ligue 1'e geçti. 2020-21 sezonu kariyerinin en güçlü dönemlerinden birine dönüştü: Lille Fransa şampiyonu olurken Yazıcı UEFA Avrupa Ligi'nde Sparta Prag ve Milan deplasmanlarında hat-trick yaptı ve turnuvayı yedi golle ortak gol kralı olarak tamamladı. Kariyerinde CSKA Moskova'da kiralık dönem geçirdi; ciddi diz sakatlığı gibi kesintilerden sonra yeniden forma mücadelesi verdi. Türkiye A Milli Takımı'nda da uzun yıllar görev aldı. Kariyer çizgisi, Trabzon altyapısından Avrupa şampiyonluğuna uzanan yükseliğin yanında sakatlıklar ve rol değişimleri sonrasında yeniden ayağa kalkma çabasıyla öne çıkar.",
+    "theme": "Tema: Trabzonspor altyapısı · A takıma yükseliş · Lille · Avrupa Ligi hat-trickleri · 2020-21 Ligue 1 şampiyonluğu · yedi Avrupa Ligi golü · sakatlık ve dönüş · milli takım",
+    "sources": [
+      "UEFA — 2020/21 Europa League top scorers",
+      "UEFA — Lille competition history",
+      "TFF — Yusuf Yazıcı milli takım kayıtları"
+    ]
   },
   {
     "name": "Salih Özcan",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Salih Özcan; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Salih Özcan, 11 Ocak 1998'de Almanya'da doğan Türk milli orta saha oyuncusudur. Futbol eğitimini büyük ölçüde 1. FC Köln altyapısında aldı ve 2016'da kulübün A takımında Bundesliga seviyesine çıktı. Almanya Futbol Federasyonu kayıtlarına göre Köln'ün farklı yaş takımlarından A takıma uzanan uzun bir gelişim süreci geçirdi; Holstein Kiel'de kiralık oynadıktan sonra Köln'e dönerek merkez orta sahada daha önemli sorumluluk üstlendi. Almanya'nın genç milli takımlarında oynadı ve 2021 UEFA U21 Avrupa Şampiyonası'nı kazanan kadroda yer aldı; 2017'de kendi yaş grubunda Fritz Walter Altın Madalyası aldı. A milli takım tercihini Türkiye'den yana yaptı ve 2022'den itibaren Türkiye formasını giymeye başladı. Aynı yıl Borussia Dortmund'a transfer olarak Şampiyonlar Ligi seviyesinde mücadele etti. Hikâyesinin ayırt edici tarafı, Almanya'nın altyapı sisteminde yetişip genç milli takım şampiyonluğuna ulaştıktan sonra uluslararası kimlik tercihinde Türkiye'yi seçmesi ve Bundesliga'nın üst düzey rekabetine yerleşmesidir.",
+    "theme": "Tema: Köln altyapısı · Bundesliga · Fritz Walter Altın Madalyası · Holstein Kiel · Almanya U21 Avrupa şampiyonluğu · Türkiye tercihi · Borussia Dortmund · Şampiyonlar Ligi",
+    "sources": [
+      "DFB Datencenter — Salih Özcan player profile",
+      "TFF — Salih Özcan milli takım kayıtları",
+      "UEFA — U21 ve kulüp turnuva kayıtları"
+    ]
   },
   {
     "name": "Ferdi Kadıoğlu",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Ferdi Kadıoğlu; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Ferdi Erenay Kadıoğlu, 7 Ekim 1999'da Arnhem'de doğan, iki bek, orta saha ve kanat rollerinde oynayabilen milli futbolcudur. Hollanda'da NEC altyapısında yetişti ve 2016'da profesyonel A takım seviyesine çıktı. 2018'de Fenerbahçe'ye transfer oldu; ilk yıllarında hücumcu orta saha ve kanat rollerinde kullanılırken zaman içinde bek pozisyonuna geçişi kariyerinin belirleyici dönüşümlerinden biri oldu. Altı sezonluk Fenerbahçe döneminde çok yönlülüğü ve yüksek çalışma temposuyla öne çıktı, 2023 Türkiye Kupası'nı kazandı. Hollanda'nın U16'dan U21'e kadar genç milli takımlarında oynadıktan sonra A milli düzeyde Türkiye'yi seçti ve 2022'de ilk kez Ay-Yıldızlı formayı giydi. EURO 2024'te çeyrek finale ulaşan Türkiye'nin düzenli oyuncularından biriydi. Ağustos 2024'te İngiltere'ye transfer olarak Brighton & Hove Albion'a katıldı. Kariyerinin ana teması, hücum oyuncusundan modern ve çok yönlü bir beke dönüşerek hem milli takım hem Premier League seviyesine yükselmesidir.",
+    "theme": "Tema: Arnhem · NEC altyapısı · 2018 Fenerbahçe · pozisyon dönüşümü · Türkiye Kupası · Hollanda genç milli takımları · Türkiye tercihi · EURO 2024 · Brighton · Premier League",
+    "sources": [
+      "TFF — Ferdi Erenay Kadıoğlu futbolcu kayıtları",
+      "Fenerbahçe Spor Kulübü — Ferdi Kadıoğlu arşivleri",
+      "UEFA — EURO 2024 Türkiye kayıtları"
+    ]
   },
   {
     "name": "Can Öncü",
     "cat": "Spor",
     "origin": "Türkiye",
-    "desc": "Can Öncü; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Can Öncü, 26 Temmuz 2003'te Alanya'da doğan motosiklet yarışçısıdır. İkiz kardeşi Deniz Öncü ile birlikte küçük yaşta motosiklet sporuna yöneldi; Asia Talent Cup ve Red Bull MotoGP Rookies Cup basamaklarında gelişti. 2018'de Red Bull MotoGP Rookies Cup şampiyonu oldu. Aynı yıl Valencia'da Moto3 Dünya Şampiyonası'na wildcard ile çıktığı ilk Grand Prix'sini yağmurlu koşullarda kazandı; 15 yıl 115 günlükken elde ettiği bu sonuçla Grand Prix tarihinin en genç yarış galibi oldu ve ilk GP startında yarış kazanan ender isimlerden biri haline geldi. 2019'da Moto3'te tam sezon yarıştıktan sonra 2020'de World Supersport'a geçti. İlk WorldSSP galibiyetini 2023 Mandalika'da aldı; aynı yıl Assen'deki ağır kazada kolunda sinir hasarı oluştu ve ameliyat sonrası uzun bir dönüş süreci yaşadı. Yamaha'ya geçişinin ardından 2025 sezonunda altı galibiyet ve 16 podyumla WorldSSP dünya ikincisi oldu. 2026 için Pata Yamaha Ten Kate Racing'e geçti. Hikâyesinin merkezinde çok genç yaşta kırdığı dünya rekoru kadar, ağır sakatlıktan sonra yeniden zirve mücadelesine dönmesi vardır.",
+    "theme": "Tema: Alanya · ikiz kardeş Deniz · Asia Talent Cup · 2018 Rookies Cup · 15 yaşında Grand Prix rekoru · Moto3 · WorldSSP · Mandalika zaferi · ağır sakatlık · 2025 dünya ikinciliği · Ten Kate Yamaha",
+    "sources": [
+      "MotoGP — Can Öncü rider biography and 2018 Valencia GP",
+      "WorldSBK — Can Oncu rider biography",
+      "WorldSBK — 2023 maiden WorldSSP win at Mandalika",
+      "WorldSBK — 2026 Ten Kate Racing Yamaha announcement"
+    ]
   },
   {
     "name": "Deniz Öncü",
