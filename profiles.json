@@ -2648,57 +2648,85 @@
     "name": "James Cameron",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "James Cameron; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "James Cameron, 1954'te Kanada'nın Ontario eyaletinde doğan yönetmen, senarist, yapımcı ve derin deniz kâşifidir. Çocukluğundan beri sanat ve bilime ilgi duydu; 1971'de California'ya taşındı, fizik ve astronomi okudu ancak üniversiteyi bırakarak makinistlik ve kamyon şoförlüğü gibi işlerde çalıştı. Sinema eğitimi almamasına rağmen USC kütüphanesinde görsel efekt tekniklerini kendi kendine çalıştı. Star Wars'u izledikten sonra film yapımına yoğunlaştı; düşük bütçeli kısa filmi Xenogenesis ve Roger Corman çevresindeki efekt çalışmaları onu sektöre taşıdı. 1984 yapımı The Terminator çıkışını sağladı; Aliens, The Abyss, Terminator 2 ve True Lies ile teknik sınırları zorlamayı sürdürdü. Titanic için gerçek batığa dalışlar yaptı; film 11 Oscar kazandı ve Cameron'a yönetmenlik dahil üç Oscar getirdi. Avatar performans yakalama ve stereoskopik 3D teknolojilerinde yeni standartlar oluşturdu. Sinemanın dışında 2012'de kendi tasarımına katkı verdiği DEEPSEA CHALLENGER ile Challenger Deep'e tek başına indi. Kariyerinin ana çizgisi, sanat ile mühendisliği birleştirerek yeni teknolojileri yalnız gösteri için değil hikâye anlatımının sınırlarını genişletmek için kullanmasıdır.",
+    "theme": "Tema: Ontario · bilim ve sanat · kamyon şoförlüğü · kendi kendine VFX eğitimi · The Terminator · Aliens · Titanic · Avatar · 3D teknoloji · Challenger Deep",
+    "sources": [
+      "D23 — James Cameron biography",
+      "National Geographic — James Cameron biography"
+    ]
   },
   {
     "name": "Greta Gerwig",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Greta Gerwig; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Greta Gerwig, 1983 Sacramento doğumlu Amerikalı oyuncu, senarist ve yönetmendir. Barnard College'da İngilizce ve felsefe eğitimi aldı. Kariyerinin ilk döneminde düşük bütçeli bağımsız filmlerde oyuncu ve ortak yazar olarak çalıştı; Joe Swanberg ile Hannah Takes the Stairs ve Nights and Weekends gibi yapımlar, doğal diyalog ve gündelik hayat gözlemine dayalı yaklaşımını geliştirdi. Noah Baumbach ile Frances Ha'nın senaryosunu birlikte yazdı ve başrolünü oynadı. 2017'de tek başına yazıp yönettiği Lady Bird ile geniş uluslararası çıkış yaptı ve En İyi Yönetmen Oscar'ına aday gösterilen az sayıdaki kadından biri oldu. Little Women uyarlamasında klasik metni zaman yapısıyla yeniden kurdu. 2023'te yönettiği Barbie, popüler bir oyuncak markasını kimlik, kadınlık ve toplumsal beklentiler üzerine büyük ölçekli bir stüdyo filmine dönüştürdü ve küresel gişede büyük başarı kazandı. Kariyer çizgisi, mikro bütçeli bağımsız sinemadan dev stüdyo yapımlarına geçerken kişisel karakter gözlemini ve yazar-yönetmen kimliğini korumasıyla öne çıkar.",
+    "theme": "Tema: Sacramento · Barnard · bağımsız sinema · Frances Ha · Lady Bird · yönetmenlik Oscar adaylığı · Little Women · Barbie · kişisel anlatıdan büyük stüdyo sinemasına",
+    "sources": [
+      "Academy of Motion Picture Arts and Sciences — Greta Gerwig records",
+      "Barbie official / Warner Bros. production records"
+    ]
   },
   {
     "name": "Sofia Coppola",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Sofia Coppola; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Sofia Coppola, New York'ta doğup Kuzey California'da büyüyen Amerikalı yönetmen ve senaristtir. Sinema dünyasının içinde büyümesine rağmen yönetmenlik kimliğini kendi kısa filmi Lick the Star ile kurmaya başladı. 1999'da The Virgin Suicides ile uzun metraj yönetmenliğine geçti. İkinci filmi Lost in Translation ona En İyi Özgün Senaryo Oscar'ını kazandırdı ve Coppola En İyi Yönetmen Oscar'ına aday gösterilen ilk Amerikalı kadın oldu. Marie Antoinette tarihsel biyografiyi çağdaş müzik ve gençlik duygusuyla yeniden yorumladı; Somewhere 2010 Venedik Film Festivali'nde Altın Aslan kazandı. The Bling Ring, The Beguiled ve Priscilla gibi filmlerinde ün, ayrıcalık, yalnızlık, genç kadınların iç dünyası ve kapalı sosyal çevreler tekrar eden temalar oldu. 2017'de The Beguiled ile Cannes En İyi Yönetmen ödülünü kazandı. Kariyerinin ana çizgisi, ünlü bir sinema ailesinin gölgesinden çıkarak sessizlik, atmosfer, moda, müzik ve karakterlerin iç dünyasına dayalı kendine özgü bir yönetmenlik dili kurmasıdır.",
+    "theme": "Tema: New York · Kuzey California · Lick the Star · The Virgin Suicides · Lost in Translation · Oscar · Marie Antoinette · Somewhere · The Beguiled · kadın bakışı",
+    "sources": [
+      "Festival de Cannes — Sofia Coppola biography and awards"
+    ]
   },
   {
     "name": "Quentin Tarantino",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Quentin Tarantino; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Quentin Tarantino, 1963 Knoxville doğumlu Amerikalı yönetmen ve senaristtir. Los Angeles çevresinde büyüdü ve genç yaşta sinemaya yoğun ilgi geliştirdi. 20'li yaşlarında Manhattan Beach'teki Video Archives mağazasında çalışırken geniş bir film kültürü oluşturdu; aynı dönemde Roger Avary ile fikir alışverişi yaptı ve senaryolar yazdı. True Romance ve Natural Born Killers senaryolarının satışı ilk profesyonel çıkışlarını sağladı. 1992'de Reservoir Dogs ile yönetmen olarak dikkat çekti. Pulp Fiction, doğrusal olmayan yapısı, diyalogları ve türler arası referanslarıyla 1994 Cannes Palme d'Or'unu kazandı ve Tarantino'nun uluslararası etkisini pekiştirdi. Jackie Brown, Kill Bill, Inglourious Basterds, Django Unchained, The Hateful Eight ve Once Upon a Time in Hollywood ile suç, western, savaş filmi ve dövüş sineması geleneklerini yeniden yorumladı. Kariyerinin temel çizgisi, resmi film okulundan çok yoğun izleme, video dükkânı deneyimi ve senaryo yazımıyla geliştirdiği sinema bilgisini güçlü bir kişisel üsluba dönüştürmesidir.",
+    "theme": "Tema: Knoxville · Los Angeles · Video Archives · Roger Avary · senaryo satışı · Reservoir Dogs · Pulp Fiction · Palme d'Or · tür sineması · özgün diyalog",
+    "sources": [
+      "Festival de Cannes — Quentin Tarantino biography"
+    ]
   },
   {
     "name": "Pedro Almodóvar",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Pedro Almodóvar; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Pedro Almodóvar, İspanya'nın La Mancha bölgesinde doğan yönetmen, senarist ve yapımcıdır. 17 yaşında sinema okumak ve film yapmak amacıyla Madrid'e taşındı; ancak resmi sinema okuluna giden yol kapalı olduğundan yaşamını farklı işlerle sürdürürken kendi yaratıcı çevresini kurdu. Bağımsız tiyatro grubu Los Goliardos'ta çalıştı, Super 8 kısa filmler çekti, underground dergilere yazdı ve Almodóvar & McNamara adlı parodik punk grubunda yer aldı. Bu üretim dönemi İspanya'nın Franco sonrası kültürel özgürleşmesi La Movida Madrileña ile birleşti. 1980'de Pepi, Luci, Bom'u yönetti; 1986'da kardeşi Agustín ile El Deseo yapım şirketini kurdu. Women on the Verge of a Nervous Breakdown uluslararası çıkışını sağladı. All About My Mother yabancı dilde film Oscar'ını, Talk to Her ise özgün senaryo Oscar'ını kazandı. Volver, Pain and Glory ve sonraki filmlerinde aile, arzu, kimlik, annelik ve hafıza temalarını sürdürdü. Kariyerinin ana çizgisi, resmi eğitim olmadan Madrid'in karşı kültüründen çıkıp kişisel renk, melodram ve karakter dilini dünya sinemasının ayırt edici üsluplarından birine dönüştürmesidir.",
+    "theme": "Tema: La Mancha · 17 yaşında Madrid · Los Goliardos · Super 8 · La Movida · 1980 Pepi Luci Bom · El Deseo · uluslararası çıkış · Oscarlar · kişisel melodram",
+    "sources": [
+      "Festival de Cannes — Pedro Almodóvar biography and filmography"
+    ]
   },
   {
     "name": "Bong Joon-ho",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Bong Joon-ho; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Bong Joon-ho, 1969 Daegu doğumlu Güney Koreli yönetmen ve senaristtir. Üniversitede sosyoloji okudu, ardından Korean Academy of Film Arts'ta sinema eğitimi aldı. İlk uzun metrajı Barking Dogs Never Bite eleştirel ilgi gördü; Memories of Murder, gerçek bir seri cinayet soruşturmasını kara mizah, polisiye ve dönemin otoriter atmosferiyle birleştirerek Kore'de büyük başarı kazandı. The Host, canavar filmi kalıplarını aile dramı ve toplumsal eleştiriyle birleştirerek uluslararası ününü büyüttü. Mother'dan sonra Snowpiercer ile İngilizce ağırlıklı uluslararası prodüksiyona geçti; Okja küresel şirketler, hayvan etiği ve tüketim üzerine kuruldu. 2019 yapımı Parasite sınıf eşitsizliğini kara mizah, gerilim ve aile dramı arasında sürekli tür değiştirerek anlattı; Cannes Palme d'Or'unu kazandı ve daha sonra En İyi Film Oscar'ını alan ilk İngilizce dışı film oldu. Bong'un kariyerini ayıran özellik, tür sinemasını sosyal kurumlar ve ekonomik eşitsizlikler üzerine eleştiri için kullanırken seyirciyle güçlü bağ kurabilmesidir.",
+    "theme": "Tema: Daegu · sosyoloji · Korean Academy of Film Arts · Memories of Murder · The Host · Snowpiercer · Okja · Parasite · Palme d'Or · sınıf eşitsizliği · türlerin karışımı",
+    "sources": [
+      "Festival de Cannes — Bong Joon-ho biography",
+      "Festival de Cannes — Parasite director biography"
+    ]
   },
   {
     "name": "Park Chan-wook",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Park Chan-wook; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Park Chan-wook, Güney Koreli yönetmen, senarist ve yapımcıdır. Genç yaşta sinemaya ilgi duydu; Alfred Hitchcock'un Vertigo filmini keşfetmesi yönetmen olma kararında belirleyici etkilerden biri oldu ve bir dönem film eleştirmenliği yaptı. İlk filmlerinin ardından 2000 yapımı Joint Security Area Kore'de büyük gişe başarısı elde ederek kariyerini dönüştürdü. Sympathy for Mr. Vengeance, Oldboy ve Lady Vengeance ile intikam üçlemesini oluşturdu. Oldboy 2004 Cannes Grand Prix'sini, Thirst 2009 Jüri Ödülü'nü kazandı. 2013'te Stoker ile İngilizce sinemaya geçti; The Handmaiden görsel kompozisyon, arzu ve güç ilişkilerini birleştiren uluslararası başarılardan biri oldu. Decision to Leave ile 2022 Cannes En İyi Yönetmen ödülünü aldı. 2025 yapımı No Other Choice iş, başarı baskısı ve kapitalist rekabeti kara mizahla ele aldı; 2026'da Cannes ana yarışma jürisinin başkanı seçilen ilk Güney Koreli sinemacı oldu. Kariyerinin ana çizgisi, şiddet ve intikamı yalnız şok unsuru değil ahlaki seçimler, arzu ve toplumsal baskılar üzerine son derece kontrollü görsel anlatının parçası haline getirmesidir.",
+    "theme": "Tema: Vertigo etkisi · film eleştirmenliği · Joint Security Area · intikam üçlemesi · Oldboy · Cannes Grand Prix · The Handmaiden · Decision to Leave · No Other Choice · 2026 Cannes jüri başkanlığı",
+    "sources": [
+      "Festival de Cannes — Park Chan-wook biography",
+      "Festival de Cannes — 2026 Jury President announcement"
+    ]
   },
   {
     "name": "Wong Kar-wai",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Wong Kar-wai; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Wong Kar-wai, Şanghay'da doğup beş yaşında ailesiyle Hong Kong'a taşınan yönetmen ve senaristtir. Hong Kong Polytechnic'te grafik sanatlar eğitimi aldıktan sonra televizyonda yapım asistanlığı ve senaristlik yaptı. 1988'de As Tears Go By ile uzun metraj yönetmenliğine geçti. Days of Being Wild Hong Kong Film Awards'ta önemli başarı kazandı; Ashes of Time'dan sonra 1994 tarihli Chungking Express uluslararası dağıtımda büyük çıkışını sağladı. Fallen Angels, Happy Together, In the Mood for Love ve 2046; zaman, kaçırılmış ilişkiler, hafıza, yalnızlık ve şehir hayatını parçalı anlatı ve güçlü görsel atmosferle ele aldı. Happy Together ona 1997 Cannes En İyi Yönetmen ödülünü kazandırdı; In the Mood for Love'daki Tony Leung performansı 2000 Cannes En İyi Erkek Oyuncu ödülünü aldı. Wong'un kariyerinin ana çizgisi, Hong Kong'un hızlı değişen kent kültürünü doğrusal hikâyeden çok duygu, müzik, renk, tekrar ve zaman hissi üzerinden sinemaya aktarmasıdır.",
+    "theme": "Tema: Şanghay · beş yaşında Hong Kong · grafik sanatlar · televizyon senaristliği · As Tears Go By · Chungking Express · Happy Together · In the Mood for Love · hafıza · zaman · görsel atmosfer",
+    "sources": [
+      "Festival de Cannes — Wong Kar-wai biography and awards"
+    ]
   },
   {
     "name": "Viola Davis",
