@@ -3157,57 +3157,84 @@
     "name": "Iga Świątek",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Iga Świątek; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Iga Świątek, 2001 Varşova doğumlu Polonyalı tenisçidir. Eski olimpik kürekçi Tomasz Świątek'in kızı olarak spora yakın bir ailede büyüdü ve ablasını geçme isteğiyle tenise başladı. 2018 Wimbledon genç kızlar şampiyonluğunun ardından profesyonel sıralamada hızla yükseldi. 2020 Roland Garros'u set kaybetmeden kazanarak Grand Slam tekler şampiyonluğu kazanan ilk Polonyalı tenisçi oldu. 2022'de dünya 1 numarasına yükseldi; aynı yıl Roland Garros ve US Open'ı kazandı ve 37 maçlık galibiyet serisi yakaladı. 2023 ve 2024 Roland Garros şampiyonlukları toprak kort hakimiyetini pekiştirdi. Paris 2024'te bronz olimpiyat madalyası aldı. 2025'te Wimbledon'ı kazanarak kariyerindeki altıncı Grand Slam'e ve çim korttaki ilk major şampiyonluğuna ulaştı. 2026 WTA kayıtlarında kariyerinde 26 tekler şampiyonluğu ve eski dünya 1 numarası olarak yer alıyor. Kariyerinin ana çizgisi, genç yaşta psikolojik hazırlığı tenis performansının merkezine koyup farklı zeminlerde Grand Slam kazanabilen çok yönlü bir şampiyona dönüşmesidir.",
+    "theme": "Tema: Varşova · sporcu aile · junior Wimbledon · 2020 Roland Garros · dünya 1 · 37 maçlık seri · US Open · Paris bronzu · 2025 Wimbledon · altı Grand Slam",
+    "sources": [
+      "WTA — Iga Świątek official profile",
+      "Iga Świątek — official website"
+    ]
   },
   {
     "name": "Carlos Alcaraz",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Carlos Alcaraz; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Carlos Alcaraz, 2003 El Palmar, Murcia doğumlu İspanyol tenisçidir. Dört yaşında babasının etkisiyle tenise başladı; gençlik döneminde eski dünya 1 numarası Juan Carlos Ferrero ile çalışmaya başladı. 2020'de ATP Newcomer of the Year seçildi, 2021 US Open'da Grand Slam çeyrek finaline çıkarak hızlı yükselişini sürdürdü. 2022 Madrid'de aynı turnuvada Rafael Nadal ve Novak Djokovic'i art arda yenen ilk oyuncu oldu; ardından US Open'ı kazanarak 19 yaşında ATP tarihinin en genç dünya 1 numarası ve yıl sonu 1 numarası oldu. 2023 ve 2024 Wimbledon finallerinde Djokovic'i yenerek çim kortta da zirveye çıktı. 2024 Roland Garros'u kazanarak üç farklı zeminde Grand Slam şampiyonu olan en genç erkek oldu ve Paris Olimpiyatları'nda gümüş madalya aldı. 2025 US Open ile yeniden dünya 1'e yükseldi. 2026 Australian Open zaferiyle 22 yaşında kariyer Grand Slam'ini tamamlayan tarihin en genç erkeği oldu ve yedi Grand Slam şampiyonluğuna ulaştı. Kariyerinin ana çizgisi, olağanüstü atletizmi ve çeşitliliği genç yaşta farklı zeminlerde şampiyonluğa dönüştürmesidir.",
+    "theme": "Tema: Murcia · dört yaşında tenis · Juan Carlos Ferrero · 2022 Madrid · 19 yaşında dünya 1 · US Open · Wimbledon · Roland Garros · olimpiyat gümüşü · 2026 Career Grand Slam",
+    "sources": [
+      "ATP Tour — Carlos Alcaraz official biography"
+    ]
   },
   {
     "name": "Jannik Sinner",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Jannik Sinner; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Jannik Sinner, 2001'de İtalya'nın Almanca konuşulan Güney Tirol bölgesindeki San Candido'da doğan tenisçidir. Çocukluğunda kayak ve futbolla birlikte tenis oynadı; 8-12 yaşları arasında İtalya'nın önde gelen genç kayakçılarından biriydi. 13 yaşında tenisi seçip evinden ayrılarak Bordighera'da profesyonel eğitime başladı. 2019 Next Gen ATP Finals şampiyonluğu çıkışını hızlandırdı; 2021'de ilk kez ilk 10'a girdi. 2024 Australian Open yarı finalinde Novak Djokovic'i yenip finalde Daniil Medvedev karşısında iki set geriden dönerek ilk Grand Slam'ini kazandı. Aynı yıl US Open'ı da kazanıp ATP sıralamasında dünya 1 numarasına yükselen ilk İtalyan oldu. 2025 Australian Open'da unvanını korudu ve Wimbledon'ı kazanarak dört Grand Slam finalinin tamamına ulaşan elit oyuncular arasına girdi. 2026 ATP biyografisi, Masters 1000 serisindeki olağanüstü başarıları ve İtalya'nın Davis Cup zaferlerindeki rolünü kaydediyor. Kariyerinin ana çizgisi, kayakta yüksek seviyedeki çocukluk yeteneğini bırakıp sakinlik, erken top alma ve temiz vuruş tekniğiyle dünya tenisinin zirvesine çıkmasıdır.",
+    "theme": "Tema: Güney Tirol · kayak şampiyonluğu · 13 yaşında tenisi seçiş · Bordighera · Next Gen · Australian Open · US Open · ilk İtalyan dünya 1 · Wimbledon · Davis Cup",
+    "sources": [
+      "ATP Tour — Jannik Sinner official biography"
+    ]
   },
   {
     "name": "Jale İnan",
     "cat": "Bilim",
     "origin": "Türkiye",
-    "desc": "Jale İnan; kamuya açık ve doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Jale İnan, 1914 İstanbul doğumlu klasik arkeologdur ve Türkiye'de arkeoloji alanında öncü kadın akademisyenlerden biri kabul edilir. Arkeolog Aziz Ogan'ın kızı olarak eski eserlerle yakın bir ortamda büyüdü. Almanya'da arkeoloji eğitimi gördü ve savaş yıllarının zorlukları içinde doktorasını tamamladı. Türkiye'ye döndükten sonra İstanbul Üniversitesi'nde klasik arkeolojinin kurumsallaşmasına katkı verdi. Side ve Perge kazılarında uzun yıllar yönetici sorumluluk üstlendi; ortaya çıkarılan heykel ve mimari buluntular Antalya bölgesinin arkeolojik mirasının belgelenmesine ve müzeciliğin gelişmesine büyük katkı sağladı. Side Apollon Tapınağı restorasyonu çalışmalarında rol aldı. Yorgun Herakles heykelinin Antalya'daki alt parçasıyla Boston'daki üst parçanın aynı esere ait olduğunu bilimsel olarak göstermeye yönelik çalışmaları, eserin Türkiye'ye iadesi sürecinin temel dayanaklarından biri oldu. 2001'de öldü. Mirası, saha kazısı, akademik eğitim, müzecilik ve kültür varlıklarının korunmasını aynı kariyerde birleştirmesidir.",
+    "theme": "Tema: İstanbul · Aziz Ogan · Almanya'da arkeoloji · İstanbul Üniversitesi · Side · Perge · Antalya Müzesi · Apollon Tapınağı · Yorgun Herakles · kültür mirası",
+    "sources": [
+      "Türkiye Cumhuriyeti kültür/arkeoloji kaynakları — Jale İnan",
+      "Antalya archaeological records — Jale İnan"
+    ]
   },
   {
     "name": "Sabahattin Eyüboğlu",
     "cat": "Edebiyat",
     "origin": "Türkiye",
-    "desc": "Sabahattin Eyüboğlu; kamuya açık ve doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Sabahattin Eyüboğlu, 1908'de Akçaabat'ta doğan denemeci, çevirmen, akademisyen ve kültür insanıdır. Trabzon Lisesi'nden sonra yüksek öğrenim için Fransa'ya gönderildi; Dijon, Lyon ve Paris'te Fransız dili, edebiyatı ve estetik alanlarında çalıştı. Türkiye'ye dönüşünde İstanbul Üniversitesi ve Ankara'daki eğitim kurumlarında ders verdi; Hasan Âli Yücel dönemindeki Tercüme Bürosu ve Köy Enstitüleri çevresinde hümanist kültür politikasının önemli isimlerinden biri oldu. Montaigne başta olmak üzere Batı edebiyatından yaptığı çevirilerle Türkçedeki düşünce ve deneme dilini zenginleştirdi. Azra Erhat ve Halikarnas Balıkçısı ile geliştirdiği 'Mavi Anadolu' yaklaşımı, Anadolu uygarlıklarını modern Türkiye'nin kültürel geçmişinin geniş bir parçası olarak okumayı amaçladı. Belgesel sinemaya da yöneldi; Anadolu'nun sanat ve kültür mirasını görüntüleyen çalışmalar üretti. 1960 sonrasında siyasi soruşturmalara maruz kaldı. 1973'te öldü. Kariyerinin ana çizgisi, çeviri, eğitim, deneme ve belgeseli kullanarak Anadolu ile dünya kültürü arasında çoğulcu bir kültürel köprü kurmaya çalışmasıdır.",
+    "theme": "Tema: Akçaabat · Fransa eğitimi · Tercüme Bürosu · Köy Enstitüleri · Montaigne · Azra Erhat · Mavi Anadolu · hümanizm · belgesel · kültürel köprü",
+    "sources": [
+      "Türkiye İş Bankası Kültür Yayınları / yazar biyografileri — Sabahattin Eyüboğlu"
+    ]
   },
   {
     "name": "Behçet Necatigil",
     "cat": "Edebiyat",
     "origin": "Türkiye",
-    "desc": "Behçet Necatigil; kamuya açık ve doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Behçet Necatigil, 1916 İstanbul doğumlu Türk şair, öğretmen, çevirmen ve radyo oyunu yazarıdır. Çocukluğunda annesini kaybetti; eğitimini farklı şehirlerde sürdürdükten sonra İstanbul Yüksek Öğretmen Okulu Türk Dili ve Edebiyatı bölümünden 1940'ta mezun oldu. İlk şiiri lise yıllarında Varlık dergisinde yayımlandı. Öğretmenliğe Kars'ta başladı; daha sonra uzun yıllar Kabataş Erkek Lisesi'nde edebiyat öğretmenliği yaptı ve 1972'de emekli oldu. Kapalı Çarşı, Çevre, Evler ve Eski Toprak gibi kitaplarında büyük tarihsel anlatılardan çok ev, aile, gündelik hayat, orta sınıf sıkışmışlığı ve bireyin iç dünyasına yöneldi; bu nedenle 'Evler Şairi' olarak anıldı. Şiirin yanı sıra radyo oyunları, mitoloji sözlüğü, edebiyat sözlükleri ve Almancadan çeviriler üretti; radyo oyunlarının Türkiye'de edebi bir tür olarak benimsenmesine önemli katkı sağladı. 1979'da öldü. Mirası, gündelik ve ev içi hayatın küçük ayrıntılarını modern Türk şiirinin yoğun ve çok katmanlı imgelerine dönüştürmesidir.",
+    "theme": "Tema: İstanbul · annesinin kaybı · Yüksek Öğretmen Okulu · Varlık · öğretmenlik · Kabataş · Evler Şairi · radyo oyunları · çeviri · gündelik hayat şiiri",
+    "sources": [
+      "Türk edebiyatı biyografi kaynakları — Behçet Necatigil"
+    ]
   },
   {
     "name": "Attilâ İlhan",
     "cat": "Edebiyat",
     "origin": "Türkiye",
-    "desc": "Attilâ İlhan; kamuya açık ve doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Attilâ İlhan, 1925 Menemen doğumlu Türk şair, romancı, denemeci ve senaristtir. Genç yaşta şiire yöneldi; lise yıllarında Nazım Hikmet şiirleriyle bağlantılı bir soruşturma nedeniyle eğitim hayatı kesintiye uğradı ve bir süre okullardan uzak kaldı. Daha sonra İstanbul Üniversitesi Hukuk Fakültesi'ne girdi ancak öğrenimini tamamlamadı. 1946 CHP Şiir Yarışması'nda 'Cebbaroğlu Mehemmed' ile ikincilik elde ederek edebiyat çevrelerinde dikkat çekti. Paris'te farklı dönemlerde yaşaması, savaş sonrası Avrupa kültürü ve siyasi tartışmalarla doğrudan temas kurmasını sağladı. Duvar, Sisler Bulvarı, Ben Sana Mecburum ve Ayrılık Sevdaya Dahil gibi şiir kitaplarında şehir, aşk, yalnızlık, toplumsal gerilim ve sinematik atmosferi birleştirdi. Sokaktaki Adam, Kurtlar Sofrası gibi romanlar yazdı; gazetecilik, köşe yazarlığı ve senaryo çalışmalarını da sürdürdü. 2005'te İstanbul'da öldü. Kariyerinin ana çizgisi, şiiri yalnız lirik alanla sınırlamayıp roman, sinema, siyaset ve şehir kültürüyle sürekli temas halinde tutmasıdır.",
+    "theme": "Tema: Menemen · gençlik soruşturması · hukuk · 1946 şiir yarışması · Paris · Duvar · Sisler Bulvarı · Ben Sana Mecburum · roman · gazetecilik · şehir şiiri",
+    "sources": [
+      "Türkiye kültür ve yayıncılık biyografi kaynakları — Attilâ İlhan"
+    ]
   },
   {
     "name": "Necip Fazıl Kısakürek",
     "cat": "Edebiyat",
     "origin": "Türkiye",
-    "desc": "Necip Fazıl Kısakürek; kamuya açık ve doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Necip Fazıl Kısakürek, 1904 İstanbul doğumlu şair, tiyatro yazarı, yayıncı ve düşünce insanıdır. Çocukluğu Çemberlitaş'taki büyükbaba konağında geçti; farklı okullardan sonra Heybeliada Bahriye Mektebi'nde ve Darülfünun Felsefe Bölümü'nde okudu. 1924'te devlet bursuyla Paris'e giderek Sorbonne'da felsefe derslerine devam etti, ancak öğrenimini tamamlamadan Türkiye'ye döndü. Bankalarda memur ve müfettiş olarak çalıştı; daha sonra Ankara ve İstanbul'daki yükseköğretim kurumlarında ders verdi. İlk şiirleri 1920'lerde yayımlandı; Kaldırımlar kitabıyla geniş tanınırlık kazandı. 1934'te Abdülhakim Arvâsî ile tanışması, kendi anlatımında dünya görüşünde ve edebiyatında büyük bir dönüşüm noktası oldu. Ağaç ve özellikle 1943'ten itibaren Büyük Doğu dergileri çevresinde edebiyat, din, kültür ve siyaset üzerine etkili fakat yoğun biçimde tartışmalı bir yayıncılık çizgisi kurdu; yazıları nedeniyle birçok kez yargılandı ve hapis cezaları aldı. Çile şiirlerini, Bir Adam Yaratmak ise tiyatro çalışmalarını temsil eden başlıca eserlerindendir. 1983'te İstanbul'da öldü. Mirası, modern Türk şiirindeki güçlü imge ve ritim dili kadar Büyük Doğu çevresinde geliştirdiği İslamcı düşünsel-siyasal etkisi üzerinden de tartışılmaya devam eder.",
+    "theme": "Tema: Çemberlitaş · Bahriye · Darülfünun · Paris/Sorbonne · Kaldırımlar · 1934 Abdülhakim Arvâsî · Büyük Doğu · yargılamalar · Çile · Bir Adam Yaratmak",
+    "sources": [
+      "TDV İslâm Ansiklopedisi — Necip Fazıl Kısakürek",
+      "Yapı Kredi Yayınları — Necip Fazıl Kısakürek biyografisi"
+    ]
   },
   {
     "name": "Cahit Sıtkı Tarancı",
