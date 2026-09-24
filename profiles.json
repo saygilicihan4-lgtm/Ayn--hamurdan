@@ -2732,57 +2732,91 @@
     "name": "Viola Davis",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Viola Davis; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Viola Davis, 11 Ağustos 1965'te St. Matthews, South Carolina'da doğan Amerikalı oyuncu ve yapımcıdır. Henüz iki aylıkken ailesiyle Central Falls, Rhode Island'a taşındı; yoksulluk içinde geçen çocukluk yıllarında okul tiyatrosu oyunculuğa açılan kapısı oldu. Rhode Island College'da tiyatro okudu, ardından Juilliard'ın Drama Division Group 22 programında dört yıl eğitim aldı. Profesyonel sahne kariyerinde August Wilson oyunları belirleyici oldu; King Hedley II ve Fences performanslarıyla Tony ödülleri kazandı. Sinemada Doubt'taki kısa ama güçlü performansıyla Oscar adaylığı elde etti; The Help ile başrol düzeyinde tanındı. How to Get Away with Murder ile dramatik dizide başrol Emmy'si kazanan ilk Siyah kadın oldu. Fences filmindeki Rose Maxson rolü ona 2017 En İyi Yardımcı Kadın Oyuncu Oscar'ını getirdi. 2023'te Grammy kazanarak Emmy, Grammy, Oscar ve Tony'den oluşan EGOT'u tamamladı. Davis'in kariyer çizgisi, ekonomik zorluklarla geçen çocukluktan yoğun klasik tiyatro eğitimine, sahne disiplininden ekranın en yüksek ödüllerine uzanan bir dayanıklılık ve oyunculuk ustalığı hikâyesidir.",
+    "theme": "Tema: South Carolina · Central Falls · yoksulluk · Rhode Island College · Juilliard · August Wilson · Tony · Doubt · How to Get Away with Murder · Fences · Oscar · EGOT",
+    "sources": [
+      "Viola Davis — resmi biyografi",
+      "Juilliard — alumni records",
+      "Academy Awards — Viola Davis records"
+    ]
   },
   {
     "name": "Cate Blanchett",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Cate Blanchett; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Cate Blanchett, 1969 Melbourne doğumlu Avustralyalı oyuncu ve yapımcıdır. University of Melbourne'da kısa süre ekonomi ve güzel sanatlar okuduktan sonra National Institute of Dramatic Art'a geçti ve 1992'de mezun oldu. Sydney Theatre Company'deki sahne çalışmalarıyla profesyonel temelini kurdu. 1998 yapımı Elizabeth'te I. Elizabeth rolü uluslararası çıkışını sağladı ve ilk Oscar adaylığını getirdi. The Lord of the Rings üçlemesindeki Galadriel rolü onu küresel popüler kültürün parçası yaptı. The Aviator'da Katharine Hepburn performansıyla yardımcı kadın oyuncu, Blue Jasmine ile başrol oyuncusu Oscar'ı kazandı. Blanchett 2008-2013 arasında Andrew Upton ile Sydney Theatre Company'nin sanat yönetiminde görev alarak yalnız oyuncu değil kurum yöneticisi olarak da etkili oldu. Carol, Tár ve sahne projelerinde riskli, psikolojik açıdan karmaşık karakterleri sürdürdü. Kariyerinin ana çizgisi, Avustralya tiyatrosundaki klasik eğitimini bağımsız sinema, büyük stüdyo yapımları ve uluslararası sahne arasında taşıyabilen olağanüstü tür ve ölçek esnekliğidir.",
+    "theme": "Tema: Melbourne · NIDA · Sydney Theatre Company · Elizabeth · Galadriel · The Aviator · Blue Jasmine · sanat yönetimi · Carol · Tár",
+    "sources": [
+      "Encyclopaedia Britannica — Cate Blanchett biography",
+      "Academy Awards — Cate Blanchett records"
+    ]
   },
   {
     "name": "Anthony Hopkins",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Anthony Hopkins; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Anthony Hopkins, 1937'de Port Talbot, Galler'de doğan oyuncudur. Okul yıllarında akademik derslerden çok resim ve müziğe ilgi duydu; Richard Burton ile karşılaşması oyunculuğa yönelmesinde teşvik edici oldu. Royal Welsh College of Music & Drama'daki eğitim ve askerlik sonrasında RADA'ya girdi. Laurence Olivier'nin davetiyle National Theatre'a katıldı ve Olivier'nin yedeği olarak sahneye çıkması klasik tiyatro disiplinini pekiştirdi. Film ve televizyonda uzun süre karakter oyuncusu olarak çalıştıktan sonra The Silence of the Lambs'taki Hannibal Lecter performansı 1992'de ilk Oscar'ını getirdi. The Remains of the Day, Nixon, Amistad, The Two Popes gibi filmler farklı dönemlerde yeni Oscar adaylıkları sağladı. The Father'daki demans yaşayan Anthony rolüyle 2021'de ikinci En İyi Erkek Oyuncu Oscar'ını kazanarak bu kategorinin en yaşlı kazananı oldu. Aynı zamanda besteci ve ressam olarak üretimini sürdürdü. Kariyerinin temel çizgisi, gençlikteki okul uyumsuzluğunu sahne disiplinine dönüştürmesi ve onlarca yıl boyunca tiyatrodan çağdaş sinemaya sürekli yeniden uyum sağlamasıdır.",
+    "theme": "Tema: Port Talbot · resim ve müzik · Richard Burton · RADA · Laurence Olivier · National Theatre · Hannibal Lecter · ilk Oscar · The Father · ikinci Oscar",
+    "sources": [
+      "Royal Welsh College of Music & Drama — Anthony Hopkins",
+      "Academy Awards — Anthony Hopkins records"
+    ]
   },
   {
     "name": "Daniel Day-Lewis",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Daniel Day-Lewis; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Daniel Day-Lewis, 1957 Londra doğumlu İngiliz-İrlandalı oyuncudur. Şair Cecil Day-Lewis ve oyuncu Jill Balcon'ın oğlu olarak sanat çevresinde büyüdü ancak gençlik yıllarında oyunculuk dışında marangozluk gibi el işlerine de güçlü ilgi duydu. Bristol Old Vic School'da eğitim aldı ve tiyatroda çalıştı. My Beautiful Laundrette ve A Room with a View'ın aynı dönemde gösterime girmesi, birbirinden tamamen farklı karakterlere dönüşebilme yeteneğini ortaya koydu. My Left Foot'ta serebral palsili yazar ve ressam Christy Brown'u canlandırması ilk En İyi Erkek Oyuncu Oscar'ını getirdi. In the Name of the Father ve Gangs of New York gibi yapımlardaki yoğun hazırlığıyla tanındı. There Will Be Blood ile ikinci, Lincoln ile üçüncü başrol Oscar'ını kazanarak bu kategoride üç ödül alan ilk erkek oyuncu oldu. Roller arasında uzun aralar vermesi ve hazırlık sırasında karakterin mesleki/fiziksel dünyasını öğrenmesi kariyerinin ayırt edici parçası oldu. 2017'de Phantom Thread sonrasında oyunculuktan çekildiğini açıkladı; daha sonra oğlu Ronan Day-Lewis'in Anemone projesiyle oyunculuğa geri döndü. Kariyerinin özü, az sayıda rolü olağanüstü yoğun araştırma ve fiziksel dönüşümle ele alma yaklaşımıdır.",
+    "theme": "Tema: Londra · Bristol Old Vic · tiyatro · My Beautiful Laundrette · My Left Foot · yoğun hazırlık · There Will Be Blood · Lincoln · üç başrol Oscar'ı · emeklilik ve dönüş",
+    "sources": [
+      "Academy Awards — Daniel Day-Lewis records",
+      "BFI — Daniel Day-Lewis film records"
+    ]
   },
   {
     "name": "Shah Rukh Khan",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Shah Rukh Khan; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Shah Rukh Khan, 1965 New Delhi doğumlu Hint oyuncu, yapımcı ve girişimcidir. Delhi'de büyüdü; St. Columba's School ve Hansraj College dönemlerinde spor ve tiyatroyla ilgilendi, Barry John'un Theatre Action Group'unda oyunculuk eğitimi aldı. Kariyerine Fauji ve Circus gibi televizyon dizileriyle başladı. Anne ve babasını genç yaşta kaybetmesinin ardından Mumbai'ye taşındı ve 1992'de Deewana ile sinemaya geçti. Baazigar ve Darr gibi anti-kahraman rollerinden Dilwale Dulhania Le Jayenge, Dil To Pagal Hai ve Kuch Kuch Hota Hai gibi romantik filmlere geçerek 1990'lar ve 2000'lerde Hint sinemasının en tanınan yıldızlarından biri oldu. Swades, Chak De! India ve My Name Is Khan gibi filmlerde yıldız imajını daha dramatik karakterlerle genişletti. Red Chillies Entertainment'ın ortak kurucusu olarak yapım ve görsel efekt altyapısına yatırım yaptı. Birkaç yıllık başrol arasının ardından Pathaan, Jawan ve Dunki ile 2023'te sinemaya büyük dönüş yaptı. Kariyer çizgisi, televizyon ve tiyatro temelinden başlayıp romantik yıldız kimliğini yapımcılık ve farklı karakterlerle sürekli yeniden kurmasına dayanır.",
+    "theme": "Tema: New Delhi · tiyatro · Fauji · Mumbai · Deewana · anti-kahraman · romantik yıldız · DDLJ · Swades · Red Chillies · Pathaan · Jawan",
+    "sources": [
+      "Encyclopaedia Britannica — Shah Rukh Khan biography",
+      "Red Chillies Entertainment — company history"
+    ]
   },
   {
     "name": "Amitabh Bachchan",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Amitabh Bachchan; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Amitabh Bachchan, 1942 Allahabad doğumlu Hint oyuncudur. Şair Harivansh Rai Bachchan'ın oğlu olarak edebiyatla iç içe büyüdü; Delhi Üniversitesi'nde eğitim gördükten sonra Kolkata'da iş dünyasında çalıştı. Oyunculuk için Mumbai'ye geçti ve 1969'da Saat Hindustani ile sinemaya başladı. İlk yıllardaki sınırlı başarıdan sonra Zanjeer 1973'te kariyerini dönüştürdü; Deewaar ve Sholay gibi filmlerle toplumsal adaletsizlik karşısında öfkeli genç adam imajının simgesi oldu. 1982'de Coolie çekiminde ağır yaralanması ülke çapında büyük ilgi yarattı ve uzun iyileşme sürecinden sonra sinemaya döndü. Kısa bir siyasi dönem ve 1990'lardaki iş/finansal sorunlardan sonra 2000'de Kaun Banega Crorepati sunuculuğu yeni bir kariyer evresi başlattı. Mohabbatein, Black, Paa ve Pink gibi filmlerle yaş ilerledikçe karakter oyunculuğunu güçlendirdi. Kariyerinin ana çizgisi, 1970'lerin toplumsal öfkesini temsil eden yıldızlıktan ağır sağlık ve finansal krizler sonrası televizyon ve karakter rolleriyle yeniden yükselişe uzanan olağanüstü uzunluktur.",
+    "theme": "Tema: Allahabad · Harivansh Rai Bachchan · Mumbai · Saat Hindustani · Zanjeer · angry young man · Sholay · Coolie kazası · kriz · Kaun Banega Crorepati · yeniden yükseliş",
+    "sources": [
+      "Encyclopaedia Britannica — Amitabh Bachchan biography",
+      "Government of India / film award records"
+    ]
   },
   {
     "name": "A.R. Rahman",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "A.R. Rahman; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "A.R. Rahman, 1967 Chennai doğumlu Hint besteci, müzisyen ve yapımcıdır. Babası R.K. Sekhar film müziği bestecisiydi; Rahman babasını dokuz yaşında kaybettikten sonra ailesine destek olmak için genç yaşta profesyonel klavyeci olarak çalışmaya başladı. Ilaiyaraaja'nın topluluğu dahil çeşitli müzisyenlerle çalıştı, Trinity College of Music bağlantılı Batı klasik müzik eğitimi aldı ve reklam jingle'ları besteledi. Mani Ratnam'ın 1992 yapımı Roja filmi ilk büyük sinema müziği çıkışı oldu; elektronik sesler, Hint klasik ve halk gelenekleri ile dünya müziğini birleştiren yaklaşımı kısa sürede Hint film müziğinin sesini değiştirdi. Bombay, Dil Se, Taal ve Lagaan gibi çalışmalar uluslararası görünürlüğünü büyüttü. Andrew Lloyd Webber ile Bombay Dreams üzerinde çalıştı. Slumdog Millionaire müzikleri 2009'da ona aynı gecede En İyi Özgün Müzik ve En İyi Şarkı olmak üzere iki Oscar kazandırdı. Chennai'de KM Music Conservatory'yi kurarak müzik eğitimine yatırım yaptı. Kariyerinin ana çizgisi, çocuk yaşta ekonomik zorunlulukla başlayan müzisyenliği teknolojik prodüksiyon, geleneksel müzik ve küresel sinema arasında yeni bir ses diline dönüştürmesidir.",
+    "theme": "Tema: Chennai · babanın kaybı · çocuk yaşta profesyonel müzik · klavye · jingle · Roja · Mani Ratnam · Hint ve elektronik sentez · Slumdog Millionaire · iki Oscar · müzik eğitimi",
+    "sources": [
+      "Academy Awards — A.R. Rahman records",
+      "Encyclopaedia Britannica — A.R. Rahman biography"
+    ]
   },
   {
     "name": "John Williams",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "John Williams; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "John Williams, 1932 New York doğumlu Amerikalı besteci, orkestra şefi ve piyanisttir. Müzisyen bir ailede büyüdü; Los Angeles'a taşındıktan sonra UCLA'da kompozisyon çalıştı, ABD Hava Kuvvetleri'nde müzik görevleri yaptı ve Juilliard'da piyano eğitimi aldı. New York'ta caz piyanisti olarak çalıştıktan sonra Hollywood'a dönüp stüdyo orkestralarında piyanistlik ve film/televizyon besteciliği yaptı. 1970'lerde Steven Spielberg ile başlayan uzun işbirliği Jaws, Close Encounters, E.T., Jurassic Park, Schindler's List ve başka filmleri kapsadı. George Lucas'ın Star Wars'u için yazdığı senfonik müzik, dönemin Hollywood'unda büyük orkestral film müziğinin yeniden merkezî hale gelmesine katkıda bulundu. Superman, Indiana Jones ve Harry Potter gibi seriler için de sinema tarihinin en tanınan temalarından bazılarını besteledi. 1980-1993 arasında Boston Pops Orchestra'nın şefliğini yaptı. Kariyerinin ayırt edici çizgisi, klasik senfonik geleneği modern gişe sinemasının karakter, mekân ve duygularıyla eşleştirerek melodiyi filmin anlatısal hafızasına dönüştürmesidir.",
+    "theme": "Tema: New York · UCLA · Air Force · Juilliard · caz piyanisti · Hollywood · Spielberg · Jaws · Star Wars · Indiana Jones · Boston Pops · senfonik film müziği",
+    "sources": [
+      "John Williams official biography",
+      "Boston Symphony Orchestra — John Williams biography",
+      "Academy Awards — John Williams records"
+    ]
   },
   {
     "name": "Lang Lang",
