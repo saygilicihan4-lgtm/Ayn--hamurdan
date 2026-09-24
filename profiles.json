@@ -1823,8 +1823,14 @@
     "name": "Demet Mutlu",
     "cat": "Girişim",
     "origin": "Türkiye",
-    "desc": "Demet Mutlu; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Demet Mutlu, Türkiye'de internet kullanımının ve çevrimiçi alışverişin hızla büyümeye başladığı dönemde Trendyol'u kurarak teknoloji girişimciliğinin öne çıkan isimlerinden biri oldu. New York University'de ekonomi eğitimi aldı; mezuniyetinin ardından farklı ülkelerde finans, pazarlama ve iş geliştirme alanlarında çalıştı. 2009'da Harvard Business School'da MBA programına başladı. Kendi anlatımına göre internetin insanların yaşamını ve iş yapma biçimini değiştirme hızını görmesi, ölçeklenebilir teknoloji tabanlı bir şirket kurma kararında belirleyici oldu. MBA eğitimini tamamlamadan Türkiye'ye dönerek 2010'da Trendyol'u kurdu. İlk aşamada Türkiye'nin güçlü hazır giyim üretim kapasitesini çevrimiçi tüketici talebiyle buluşturmaya odaklanan girişim, daha sonra çok kategorili pazaryeri modeline ve lojistik, yemek/hızlı teslimat ile ikinci el gibi bağlantılı hizmetlere genişledi. Mutlu, ilk günlerde talebin beklenenden yüksek olduğunu ve ekibin bazı siparişleri bizzat teslim ettiğini anlatır; bu dönem şirketin hızlı ölçeklenme kültürünün erken örneklerinden biridir. Trendyol daha sonraki yıllarda uluslararası yatırım aldı ve Türkiye dışındaki pazarlara açıldı. Mutlu'nun kariyerindeki belirgin kırılma noktası, Harvard'daki geleneksel yönetim eğitimi rotasını yarıda bırakıp henüz olgunlaşmamış Türkiye e-ticaret pazarında doğrudan ürün ve şirket kurmayı seçmesidir.",
+    "theme": "Tema: NYU · küresel iş deneyimi · Harvard'dan ayrılış · 2010 Trendyol · erken talep ve ölçeklenme · teknoloji girişimciliği",
+    "sources": [
+      "Fast Company Türkiye — 'Mutlu’nun büyük hayali', Demet Mutlu röportajı",
+      "Trendyol — kurumsal tarihçe / şirket hakkında",
+      "World Economic Forum — Demet Mutlu profili",
+      "New York University / kamuya açık biyografik kayıtlar — eğitim geçmişi"
+    ]
   },
   {
     "name": "Hande Çilingir",
