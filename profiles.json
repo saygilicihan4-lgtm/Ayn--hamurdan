@@ -1876,8 +1876,15 @@
     "name": "Murat Vargı",
     "cat": "Girişim",
     "origin": "Türkiye",
-    "desc": "Murat Vargı; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Murat Vargı, dış ticaret deneyiminden Türkiye'nin mobil iletişim altyapısının kuruluşuna uzanan kariyeriyle telekomünikasyon girişimciliğinin öncü isimlerindendir. TED Ankara Koleji'nin ardından Ankara İktisadi ve İdari İlimler Yüksekokulu'nda ekonomi ve dış ticaret eğitimi aldı; burslarla Helsinki School of Economics'te ticaret geliştirme ve New Delhi'deki Indian Institute of Foreign Trade'de dış ticaret programlarına katıldı. 1972'de Koç Holding'de ihracat temsilcisi olarak profesyonel kariyerine başladı, 1976'da ortaklarıyla Penta Dış Ticaret'i kurarak girişimciliğe geçti. Harvard Business School'un Creating Emerging Markets sözlü tarih çalışmasında Vargı, Türkiye'nin daha kapalı bir ekonomik yapıdan liberalizasyon dönemine geçişini ve devlet tekelinin bulunduğu telekom alanında mobil teknolojiyi ülkeye getirmek için Ericsson dahil uluslararası teknoloji şirketleri ve finansman ortaklarıyla yürüttüğü riskli süreci anlatır. 1993'te Turkcell ve KVK'nın kurucu ortakları arasında yer aldı ve aynı yıl MV Holding'i kurdu; Turkcell 1994'te faaliyete geçti ve 2000'de New York Borsası'nda işlem gören ilk Türk şirketi oldu. MV Holding daha sonra telekomun yanında yenilenebilir enerji, konaklama, teknoloji ve finansal yatırımlara genişledi. Vargı, iş yaşamının yanında TED İstanbul Koleji ve TEGV gibi eğitim kuruluşlarında mütevelli heyeti görevleri üstlendi ve atık konusunda toplumsal farkındalık yaratmayı amaçlayan Çöpüne Sahip Çık Vakfı'nı kurdu. Kariyerinin temel kırılma noktası, dış ticarette edindiği uluslararası bağlantı kurma deneyimini 1990'ların başında Türkiye için henüz yeni ve sermaye yoğun bir alan olan GSM teknolojisine taşımasıdır.",
+    "theme": "Tema: dış ticaret · Koç Holding · Penta · GSM vizyonu · Turkcell ve KVK · MV Holding · yenilenebilir enerji · sosyal girişimler",
+    "sources": [
+      "MV Holding — Murat Vargı, Founder & Honorary President",
+      "Harvard Business School Baker Library — Creating Emerging Markets: Murat Vargı interview (2014)",
+      "MV Holding — Tarihçe",
+      "Turkcell — Articles of Association / founding shareholders",
+      "MV Holding — Social / Education"
+    ]
   },
   {
     "name": "Aydın Doğan",
