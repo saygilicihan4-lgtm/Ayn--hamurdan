@@ -2559,57 +2559,90 @@
     "name": "Drew Houston",
     "cat": "Girişim",
     "origin": "Yabancı",
-    "desc": "Drew Houston; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Drew Houston, 1983 doğumlu Amerikalı yazılım geliştiricisi ve girişimcidir. MIT'de elektrik mühendisliği ve bilgisayar bilimi okurken Accolade adlı SAT hazırlık girişimini kurdu. Mezuniyet sonrasında sürekli USB bellek taşıma ve dosyaları kendine e-postalama sorunundan bıktı; 2007'de Boston-New York otobüs yolculuğunda USB belleğini evde unutunca Dropbox'ın ilk kodlarını yazmaya başladı. MIT öğrencisi Arash Ferdowsi ile ortak oldu ve Y Combinator'a katıldı. Dropbox basit bir kişisel senkronizasyon aracından yüz milyonlarca kişinin kullandığı bulut depolama ve işbirliği platformuna dönüştü; 2018'de halka açıldı. Houston şirketin ürün yönü ve stratejisinde liderliğini sürdürdü; 2026'da Dropbox eş-CEO modeline geçtiğinde co-CEO olarak kaldı. Hikâyesinin merkezinde, günlük ve kişisel bir sorunu önce kendisi için çözmesi, çalışan prototipi hızla ürüne çevirmesi ve küçük bir yazılım projesini küresel altyapıya ölçeklemesi vardır.",
+    "theme": "Tema: MIT · Accolade · unutulan USB bellek · 2007 Dropbox · Arash Ferdowsi · Y Combinator · bulut senkronizasyonu · 2018 halka arz · ürün liderliği",
+    "sources": [
+      "MIT News — Opening Dropbox",
+      "MIT News — Dropbox founder and distributed work",
+      "Dropbox — About / leadership"
+    ]
   },
   {
     "name": "Patrick Collison",
     "cat": "Girişim",
     "origin": "Yabancı",
-    "desc": "Patrick Collison; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Patrick Collison, İrlanda doğumlu teknoloji girişimcisi ve Stripe'ın kurucu ortağı/CEO'sudur. Genç yaşta programlamaya yöneldi; kardeşi John ile daha önce Auctomatic adlı yazılım girişimini kurup sattı. İnternet üzerinden ödeme kabul etmenin geliştiriciler için gereksiz derecede karmaşık olduğunu görmeleri, kardeşleri yeni bir altyapı fikrine yöneltti. 2010'da Stripe'ı kurdular ve ödeme entegrasyonunu birkaç satır kodla başlanabilecek geliştirici odaklı bir ürüne dönüştürmeyi hedeflediler. Şirket zamanla ödeme işlemenin ötesine geçerek faturalama, vergi, dolandırıcılık önleme, şirket kuruluşu ve küresel finansal altyapı hizmetleri geliştirdi. Patrick Collison CEO olarak şirketin uzun vadeli teknoloji ve ekonomik altyapı yaklaşımını yönetti. Kariyerinin temel çizgisi, çevrimiçi ticaretin görünmeyen fakat kritik darboğazlarından birini yazılım problemi olarak ele alıp geliştirici deneyimini şirket stratejisinin merkezine yerleştirmesidir.",
+    "theme": "Tema: İrlanda · genç programcı · John Collison · Auctomatic · 2010 Stripe · geliştirici deneyimi · internet ödemeleri · küresel finansal altyapı",
+    "sources": [
+      "Stripe Newsroom — Patrick Collison, CEO and Cofounder",
+      "Stripe — company information"
+    ]
   },
   {
     "name": "John Collison",
     "cat": "Girişim",
     "origin": "Yabancı",
-    "desc": "John Collison; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "John Collison, İrlanda doğumlu teknoloji girişimcisi ve Stripe'ın kurucu ortağı/başkanıdır. Kardeşi Patrick ile genç yaşta yazılım geliştirmeye başladı ve ilk önemli girişimleri Auctomatic'i kurup sattılar. Ardından internet işletmelerinin ödeme kabul ederken karşılaştığı teknik ve bürokratik sürtünmeyi azaltmak amacıyla 2010'da Stripe'ı kurdular. Stripe'ın ilk ürün yaklaşımı, geliştiricilerin ödeme sistemlerini uzun banka ve entegrasyon süreçleri yerine basit API'lerle kurabilmesiydi. Şirket küresel ölçekte büyüdükçe John Collison başkan olarak ürün, işletme ve uluslararası genişleme süreçlerinde merkezi rol üstlendi. Kariyerinin ana teması, kardeşiyle çok genç yaşta başlayan girişimcilik deneyimini internet ekonomisinin temel altyapılarından birini inşa etmeye taşıması ve karmaşık finansal süreçleri programlanabilir araçlara dönüştürmesidir.",
+    "theme": "Tema: İrlanda · Patrick Collison · genç girişimcilik · Auctomatic · 2010 Stripe · API · internet ekonomisi · küresel ödeme altyapısı",
+    "sources": [
+      "Stripe Newsroom — John Collison, Cofounder and President",
+      "Stripe — company information"
+    ]
   },
   {
     "name": "Walt Disney",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Walt Disney; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Walter Elias Disney, 1901'de Chicago'da doğan Amerikalı animatör, yapımcı ve girişimciydi. Çocukluğunun bir bölümünü Missouri'de geçirdi; çizime erken yaşta ilgi duydu. Kansas City'deki ilk animasyon girişimi Laugh-O-Gram'ın iflasından sonra 1923'te Hollywood'a giderek kardeşi Roy ile yeni bir stüdyo kurdu. Oswald the Lucky Rabbit karakterinin haklarını kaybetmesi önemli bir iş dersi oldu; ardından Ub Iwerks ile Mickey Mouse'u geliştirdi. Steamboat Willie'nin 1928'de senkronize sesle başarısı stüdyoyu yükseltti. Disney daha sonra renkli animasyon, uzun metrajlı Snow White and the Seven Dwarfs, çok düzlemli kamera ve yeni yapım tekniklerine yatırım yaptı. 1955'te Disneyland'i açarak hikâye anlatımını fiziksel mekâna taşıdı. 1966'da öldüğünde şirketi animasyon, film, televizyon ve tema parklarını birleştiren benzersiz bir eğlence modeline dönüşmüştü. Yaşam öyküsünün ana çizgisi, erken iflas ve fikri mülkiyet kaybından sonra karakter sahipliği, teknoloji ve deneyim tasarımını birlikte düşünmesidir.",
+    "theme": "Tema: Chicago · Kansas City · Laugh-O-Gram iflası · Roy Disney · Oswald kaybı · Mickey Mouse · Steamboat Willie · Snow White · Disneyland · eğlence inovasyonu",
+    "sources": [
+      "Walt Disney Archives — Walt Disney Biography"
+    ]
   },
   {
     "name": "Stan Lee",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Stan Lee; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Stan Lee, 1922'de New York'ta Stanley Martin Lieber adıyla doğan çizgi roman yazarı, editör ve yayıncıydı. 1939'da genç yaşta Timely Comics'te işe başladı; ilk yayımlanan yazılarından biri 1941 tarihli Captain America Comics #3'teki kısa metindi. II. Dünya Savaşı sırasında ABD Ordusu'nda görev yaptıktan sonra çizgi roman sektörüne döndü. 1960'larda Jack Kirby, Steve Ditko ve başka sanatçılarla birlikte Fantastic Four, Spider-Man, Hulk, Thor, X-Men gibi Marvel karakterlerinin yaratılmasında rol oynadı. Bu dönemde süper kahramanlara gündelik sorunlar, kişilik çatışmaları ve kusurlar ekleyen anlatı yaklaşımı Marvel'ın kimliğinin önemli parçası oldu. Daha sonra yayıncılıktan marka elçiliğine ve medya projelerine geçti; Marvel uyarlamalarındaki kısa kamera görünümleriyle yeni kuşaklarca da tanındı. 2018'de öldü. Mirası, çizgi roman yazarının okurla doğrudan konuştuğu editoryal sesi ve ortak yaratıcılarla kurduğu geniş karakter evrenidir; karakterlerin yaratıcı payları konusunda Kirby ve Ditko gibi isimlerin katkıları da tarihsel anlatının ayrılmaz parçasıdır.",
+    "theme": "Tema: New York · 1939 Timely Comics · Captain America · Jack Kirby · Steve Ditko · Fantastic Four · Spider-Man · Marvel Silver Age · kusurlu kahramanlar · medya mirası",
+    "sources": [
+      "Marvel — Stan Lee Creator Spotlight",
+      "Marvel — Stan Lee life and legacy"
+    ]
   },
   {
     "name": "Alfred Hitchcock",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Alfred Hitchcock; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Alfred Hitchcock, 1899 Londra doğumlu İngiliz film yönetmeniydi. Mühendislik ve teknik çizim eğitiminin ardından sinema sektörüne sessiz film ara yazıları tasarlayarak girdi; senaryo, sanat yönetimi ve yardımcı yönetmenlik gibi görevlerle setin farklı alanlarını öğrendi. 25 yaşında The Pleasure Garden ile ilk uzun metrajını yönetti. 1926 yapımı The Lodger, yanlış suçlanan kişi, gözetleme ve psikolojik gerilim gibi kariyeri boyunca tekrar edeceği motiflerin erken örneği oldu. Blackmail İngiliz sesli sinemasının öncü filmlerinden biri olurken, The 39 Steps ve The Lady Vanishes uluslararası ününü büyüttü. 1939'da Hollywood'a geçti; Rebecca, Notorious, Rear Window, Vertigo, North by Northwest, Psycho ve The Birds gibi filmlerle gerilim sinemasının görsel dilini dönüştürdü. Filmlerini çekimden önce zihninde ve storyboardlarda ayrıntılı biçimde kurmasıyla tanındı. 1980'de öldü. Mirası, seyircinin ne bildiğini ve ne zaman bildiğini titizlikle kontrol ederek kurduğu suspense dili, öznel kamera ve görsel hikâye anlatımıdır.",
+    "theme": "Tema: Londra · sessiz sinema · The Pleasure Garden · The Lodger · Blackmail · Hollywood · Rear Window · Vertigo · Psycho · suspense · görsel planlama",
+    "sources": [
+      "BFI — Alfred Hitchcock profile",
+      "BFI — The Pleasure Garden",
+      "BFI Sight and Sound — Alfred Hitchcock: my own methods"
+    ]
   },
   {
     "name": "Stanley Kubrick",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Stanley Kubrick; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Stanley Kubrick, 1928'de New York'ta doğan Amerikalı-İngiliz film yönetmeni, yapımcı ve fotoğrafçıydı. 17 yaşında Look dergisinde profesyonel fotoğrafçı olarak çalışmaya başladı; foto-röportaj deneyimi kadraj, ışık ve insan davranışına yaklaşımını şekillendirdi. 1951'de boksör Walter Cartier üzerine çektiği Day of the Fight ile sinemaya geçti; ilk uzun metrajı Fear and Desire'ı arkadaş ve akrabalarından sağlanan parayla yaptı. Paths of Glory ve Spartacus sonrası Lolita, Dr. Strangelove, 2001: A Space Odyssey, A Clockwork Orange, Barry Lyndon, The Shining, Full Metal Jacket ve Eyes Wide Shut gibi birbirinden farklı türlerde filmler yönetti. 2001 sırasında ailesiyle İngiltere'ye yerleşti ve sonraki yapımlarını büyük ölçüde orada gerçekleştirdi. Araştırmaya dayalı hazırlığı, yaratıcı kontrolü ve teknik deneyleriyle tanındı; Barry Lyndon'da mum ışığında çekim için özel hızlı lensler kullanması bunun örneklerinden biridir. 1999'da öldü. Mirası tek bir türe değil, her projede sinema dilini yeniden tasarlama ve teknolojiyi hikâyenin hizmetinde kullanma yaklaşımına dayanır.",
+    "theme": "Tema: New York · Look fotoğrafçılığı · Day of the Fight · bağımsız başlangıç · Paths of Glory · 2001 · İngiltere · Barry Lyndon · The Shining · teknik yenilik · yaratıcı kontrol",
+    "sources": [
+      "BFI — Stanley Kubrick: New Perspectives",
+      "BFI — Barry Lyndon",
+      "BFI — Stanley Kubrick archive features"
+    ]
   },
   {
     "name": "Francis Ford Coppola",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Francis Ford Coppola; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Francis Ford Coppola, 1939 Detroit doğumlu Amerikalı yönetmen, senarist ve yapımcıdır. Çocukken çocuk felci geçirdi ve aylarca odasında kalırken televizyon izleyip kukla gösterileri hazırladı. Hofstra'da tiyatro eğitimi aldı, ardından UCLA'da sinema yüksek lisans programına girdi. Roger Corman yanında düşük bütçeli film yapımının farklı aşamalarını öğrendi. Patton senaryosuyla ilk büyük Oscar başarısını kazandı; 1972'de 32 yaşında yönettiği The Godfather kariyerini dönüştürdü. The Conversation, The Godfather Part II ve Apocalypse Now ile 1970'lerin Amerikan sinemasının merkezindeki yönetmenlerden biri oldu. George Lucas ile American Zoetrope'u kurarak bağımsız üretim, genç sinemacılar ve yeni film teknolojileri için bir merkez oluşturdu. Apocalypse Now'ın zorlu yapımı ve One from the Heart gibi finansal riskler, yaratıcı bağımsızlığının bedellerini de gösterdi. Sonraki yıllarda yapımcılık, şarapçılık ve kişisel filmler arasında çalışmayı sürdürdü. Kariyerinin temel çizgisi, stüdyo sistemi içinde büyük başarı elde ederken sürekli bağımsız üretim alanı yaratmaya çalışmasıdır.",
+    "theme": "Tema: Detroit · çocuk felci · Hofstra · UCLA · Roger Corman · Patton · The Godfather · American Zoetrope · Apocalypse Now · yaratıcı risk · bağımsız sinema",
+    "sources": [
+      "Academy of Motion Picture Arts and Sciences — Francis Ford Coppola"
+    ]
   },
   {
     "name": "James Cameron",
