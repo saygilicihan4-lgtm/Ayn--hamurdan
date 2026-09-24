@@ -2990,57 +2990,84 @@
     "name": "Stephen Curry",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Stephen Curry; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Stephen Curry, 1988 Akron doğumlu Amerikalı basketbolcudur. NBA oyuncusu Dell Curry'nin oğlu olarak basketbol ortamında büyüdü ancak gençliğinde kısa ve zayıf fiziği nedeniyle büyük kolej programlarından yoğun ilgi görmedi. Davidson College'ı seçti; 2008 NCAA turnuvasında okulunu Elite Eight'e taşıdı ve üç sezonda 2.635 sayı attı. Golden State Warriors onu 2009 NBA Draftı'nda yedinci sıradan seçti. Kariyerinin ilk yıllarında tekrarlayan ayak bileği sakatlıkları yaşamasına rağmen oyununu üç sayı tehdidi, top hakimiyeti ve topsuz hareket üzerine geliştirdi. Warriors ile 2015, 2017, 2018 ve 2022 NBA şampiyonluklarını kazandı; 2015 ve 2016 MVP'si oldu ve 2016'da NBA tarihinde oybirliğiyle seçilen ilk MVP oldu. 2022'de Finals MVP'yi kazandı. NBA'in tüm zamanlar üç sayı rekorunu ele geçirerek şut mesafesi ve saha geometrisinin modern basketboldaki önemini değiştirdi. 2022'de yarım bıraktığı Davidson eğitimini tamamlayarak sosyoloji diplomasını aldı. Kariyerinin ana çizgisi, fiziksel ölçüler nedeniyle küçümsenen bir oyuncudan şut seçimi ve hücum alanı anlayışını dönüştüren bir basketbol ikonuna dönüşmesidir.",
+    "theme": "Tema: Dell Curry · fiziksel dezavantaj · Davidson · 2008 Elite Eight · 2009 draft · ayak bileği sorunları · dört NBA şampiyonluğu · iki MVP · üç sayı devrimi · 2022 diploma",
+    "sources": [
+      "NBA — Stephen Curry official biography",
+      "Davidson / NBA — Curry graduation records"
+    ]
   },
   {
     "name": "Venus Williams",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Venus Williams; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Venus Williams, 1980 Lynwood, California doğumlu Amerikalı tenisçidir. Richard Williams ve Oracene Price'ın kızı olarak Compton'da kardeşi Serena ile halka açık kortlarda tenis öğrenmeye başladı. Ailesi daha sonra Florida'ya taşındı ve kızların gelişimini turnuva baskısından uzak, kontrollü bir programla sürdürdü. Venus 14 yaşında 1994 Oakland turnuvasıyla WTA ana tablosuna girdi; 1997 US Open'da ilk Grand Slam finaline ulaştı. 2000'de Wimbledon ve US Open'ı kazanıp Sydney Olimpiyatları'nda hem teklerde hem Serena ile çiftlerde altın madalya aldı. Kariyerinde yedi Grand Slam tekler şampiyonluğu, 49 WTA tekler kupası ve Serena ile 14 Grand Slam çiftler şampiyonluğu elde etti; 2002'de dünya 1 numarasına yükseldi. Kadın tenisinde Wimbledon ödül parasının eşitlenmesi için kamuoyu önünde güçlü biçimde savunuculuk yaptı. 2011'de Sjögren sendromu teşhisi aldı; buna rağmen profesyonel kariyerini sürdürüp 2017'de iki Grand Slam finaline ulaştı. Hikâyesinin ana çizgisi, Compton'daki kamu kortlarından dünya zirvesine yükselirken sportif başarıyı eşit ücret mücadelesi ve kronik hastalıkla uzun süreli rekabet gücüyle birleştirmesidir.",
+    "theme": "Tema: Compton · Richard Williams · Serena · 14 yaşında WTA · 2000 Wimbledon ve US Open · Olimpiyat altını · dünya 1 numarası · eşit ücret · Sjögren sendromu · uzun kariyer",
+    "sources": [
+      "WTA — Venus Williams official profile"
+    ]
   },
   {
     "name": "Nadia Comăneci",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Nadia Comăneci; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Nadia Comăneci, 1961 Onești doğumlu Rumen jimnastikçidir. Küçük yaşta Béla ve Márta Károlyi tarafından keşfedildi ve yoğun jimnastik eğitimine başladı. Henüz 14 yaşındayken 1976 Montreal Olimpiyatları'nda asimetrik paralelde tarihin ilk olimpik 10.0 puanını aldı; skor tabelası 10.00 gösterecek biçimde tasarlanmadığı için puan 1.00 olarak göründü. Montreal'de toplam yedi kez mükemmel 10 aldı ve üç altın madalya kazandı. 1980 Moskova Olimpiyatları'nda iki altın daha elde etti. Genç yaşta gelen olağanüstü başarı, Romanya'nın komünist rejimi altında yoğun devlet ve medya baskısıyla iç içe geçti. 1989'da Romanya'dan ayrıldı ve daha sonra ABD'ye yerleşti. Bart Conner ile evlendi; jimnastik eğitimi ve spor elçiliği çalışmalarını sürdürdü. Comăneci'nin mirası yalnız 'Perfect 10' değil, kadın jimnastiğinde teknik beklentileri ve küresel popülerliği bir anda yükselten performanslarıdır.",
+    "theme": "Tema: Onești · Károlyi · 14 yaşında Montreal · ilk olimpik 10.0 · yedi Perfect 10 · beş olimpiyat altını · Romanya · 1989 ayrılış · spor elçiliği",
+    "sources": [
+      "International Olympic Committee / Olympics — Nadia Comăneci records"
+    ]
   },
   {
     "name": "Eliud Kipchoge",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Eliud Kipchoge; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Eliud Kipchoge, 1984 Kenya doğumlu uzun mesafe koşucusudur. Nandi County'deki Kaptagat çevresinde büyüdü; gençliğinde okula koşarak gidip geldi ve Patrick Sang ile tanışması profesyonel gelişiminde belirleyici oldu. Pist kariyerinde 2003 dünya 5000 metre şampiyonluğunu kazandı; 2004 Atina'da bronz, 2008 Pekin'de gümüş olimpiyat madalyası aldı. Daha sonra maratona geçti ve 2013 Hamburg'daki ilk maratonunu kazandı. Berlin, Londra ve başka büyük maratonlarda uzun süre olağanüstü istikrar gösterdi. 2018 Berlin Maratonu'nda 2:01:39 ile dünya rekoru kırdı; 2022'de Berlin'de bunu 2:01:09'a indirdi. 2016 Rio ve 2020 Tokyo Olimpiyat maratonlarını kazanarak üst üste iki olimpiyat altını elde etti. 2019 INEOS 1:59 Challenge'da 1:59:40 koşarak maraton mesafesini iki saatin altında tamamlayan ilk insan oldu; kontrollü koşullar nedeniyle bu sonuç resmi dünya rekoru sayılmadı. Kipchoge'nin kariyer çizgisi, disiplinli Kaptagat kamp yaşamı, sadelik ve uzun yıllara yayılan dayanıklılıkla insan performansının sınırlarını yeniden tanımlamasıdır.",
+    "theme": "Tema: Kenya · Kaptagat · Patrick Sang · 5000 metre · maratona geçiş · Rio ve Tokyo altınları · Berlin dünya rekorları · INEOS 1:59 · disiplin",
+    "sources": [
+      "World Athletics / Olympics — Eliud Kipchoge records"
+    ]
   },
   {
     "name": "Mo Farah",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Mo Farah; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Mo Farah, Somali doğumlu Britanyalı uzun mesafe koşucusudur. Çocukken Birleşik Krallık'a getirildi; daha sonra kamuoyuna açıkladığı üzere ülkeye gelişinin arkasında insan kaçakçılığı ve ev içi hizmete zorlanma bulunuyordu. Okulda beden eğitimi öğretmeni Alan Watkinson onun koşu yeteneğini fark ederek spora ve yasal statüsünü düzenleme sürecine destek oldu. Farah pistte 5000 ve 10.000 metreye odaklandı; 2010 Avrupa Şampiyonası'nda iki mesafeyi de kazanması uluslararası yükselişinin dönüm noktası oldu. 2012 Londra Olimpiyatları'nda ev sahibi seyirci önünde 5000 ve 10.000 metre altınlarını kazanarak 'double' yaptı; 2016 Rio'da iki unvanı da korudu. Dünya şampiyonalarında da uzun mesafe yarışlarının baskın isimlerinden biri oldu. Daha sonra maratona yöneldi ve 2018 Chicago Maratonu'nu kazandı. Kariyerinin ana çizgisi, çocuklukta yaşadığı ağır kopuş ve güvensizlik ortamından öğretmen desteği ve atletizm aracılığıyla çıkıp Britanya spor tarihinin en başarılı pist koşucularından birine dönüşmesidir.",
+    "theme": "Tema: Somali · çocuklukta İngiltere'ye getiriliş · Alan Watkinson · koşuyla çıkış · 5000/10000 · Londra 2012 double · Rio 2016 double · dünya şampiyonlukları · maraton",
+    "sources": [
+      "Olympics / World Athletics — Mo Farah competition records",
+      "BBC — Mo Farah childhood disclosure"
+    ]
   },
   {
     "name": "Tiger Woods",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Tiger Woods; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Tiger Woods, 1975 Cypress, California doğumlu Amerikalı golfçüdür. Babası Earl Woods onu çok küçük yaşta golfle tanıştırdı; iki yaşındayken televizyon programında golf vuruşu yapacak kadar erken dikkat çekti. Gençlerde olağanüstü başarıların ardından Stanford University'de iki yıl oynadı ve 1996'da profesyonel oldu. 1997 Masters'ı 21 yaşında 12 vuruş farkla kazanarak turnuvanın o tarihteki en genç şampiyonu ve ilk Siyah kazananı oldu. 2000-01 döneminde dört büyük turnuva kupasını art arda elinde tutarak 'Tiger Slam'i gerçekleştirdi. Kariyerinin zirvesinde hem fiziksel güç hem hassas kısa oyun ve yoğun rekabetçiliğiyle golfün küresel izleyici kitlesini genişletti. Özel hayat krizi, çok sayıda sırt ameliyatı ve uzun sakatlık dönemlerinden sonra 2019 Masters'ı kazanması büyük geri dönüşlerden biri oldu. PGA Tour kayıtlarında 82 galibiyet ve 15 major şampiyonluğu bulunur. 2021'de ciddi otomobil kazasında sağ bacağından ağır yaralandı ancak tekrar turnuva golfüne döndü. Kariyerinin ana çizgisi, çocukluk dehasından küresel spor ikonluğuna, ardından kişisel ve fiziksel krizlerden yeniden rekabete uzanan olağanüstü yükseliş-düşüş-dönüş döngüsüdür.",
+    "theme": "Tema: Cypress · Earl Woods · çocuk yaşta golf · Stanford · 1996 profesyonel · 1997 Masters · Tiger Slam · 15 major · sakatlıklar · 2019 Masters dönüşü · 82 PGA Tour galibiyeti",
+    "sources": [
+      "PGA TOUR — Tiger Woods official profile"
+    ]
   },
   {
     "name": "Ayrton Senna",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Ayrton Senna; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Ayrton Senna, 1960 São Paulo doğumlu Brezilyalı Formula 1 pilotuydu. Motor sporlarına çocuk yaşta babasının verdiği go-kartla başladı; karting ve Britanya'daki junior formula serilerinde yükseldikten sonra 1984'te Toleman ile Formula 1'e girdi. Yağmurlu Monaco Grand Prix'sindeki çarpıcı ikinciliği yeteneğini dünyaya gösterdi. Lotus'ta ilk yarış zaferlerini aldı; 1988'de McLaren'a geçerek Alain Prost ile hem takım arkadaşlığı hem de Formula 1 tarihinin en sert rekabetlerinden birini yaşadı. Senna 1988, 1990 ve 1991 dünya şampiyonluklarını kazandı. Özellikle sıralama turlarındaki hızı ve yağmur koşullarındaki kontrolüyle tanındı; kariyerinde 41 yarış zaferi ve 65 pole pozisyonu elde etti. 1994'te Williams'a geçti ancak San Marino Grand Prix'sinde Imola'daki Tamburello virajında yaptığı kazada 34 yaşında hayatını kaybetti. Ölümünden sonra motor sporlarında güvenlik tartışmaları hızlandı; ailesinin sosyal yardım çalışmaları Instituto Ayrton Senna üzerinden devam etti. Mirası, yalnız üç dünya şampiyonluğu değil, sınırları sürekli zorlayan sürüşü ve Brezilya'daki güçlü kültürel etkisidir.",
+    "theme": "Tema: São Paulo · go-kart · 1984 Toleman · yağmurlu Monaco · Lotus · McLaren · Alain Prost rekabeti · üç dünya şampiyonluğu · 41 galibiyet · Imola 1994 · kalıcı miras",
+    "sources": [
+      "Formula 1 — Ayrton Senna Hall of Fame and biography"
+    ]
   },
   {
     "name": "Marc Márquez",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Marc Márquez; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Marc Márquez, 1993 Cervera doğumlu İspanyol motosiklet yarışçısıdır. Çocuk yaşta motosiklete başladı ve Grand Prix yarışlarına 2008'de 125cc sınıfında girdi. 2010'da 125cc dünya şampiyonu, 2012'de Moto2 dünya şampiyonu oldu. 2013'te Repsol Honda ile MotoGP'ye yükseldi ve çaylak sezonunda dünya şampiyonluğunu kazanarak premier sınıf tarihinin en genç şampiyonlarından biri oldu. 2014'te ilk 10 yarışı art arda kazanarak unvanını korudu; 2016, 2017, 2018 ve 2019'da yeniden MotoGP şampiyonu oldu. 2020 Jerez kazasında sağ humerusunu kırması kariyerini değiştirdi; aynı kol üzerinde dört ameliyat, enfeksiyon ve tekrar eden diplopi sorunları nedeniyle yıllarca tam kapasite yarışamadı. Honda'dan ayrılıp 2024'te Gresini Ducati'ye geçmesi geri dönüşün dönüm noktası oldu; 2025'te fabrika Ducati ile MotoGP dünya şampiyonluğunu yeniden kazanarak son premier sınıf unvanından 2.184 gün sonra yedinci MotoGP tacına ulaştı. Hikâyesinin ana çizgisi, genç yaşta rekorlar kıran hakimiyetten kariyerini tehdit eden çok yıllı sakatlık dönemine, ardından takım ve motosiklet değiştirerek dünya zirvesine geri dönüşe uzanır.",
+    "theme": "Tema: Cervera · 125cc şampiyonluğu · Moto2 · 2013 çaylak MotoGP şampiyonu · Honda hakimiyeti · 2020 Jerez kırığı · dört ameliyat · Gresini Ducati · 2025 geri dönüş şampiyonluğu",
+    "sources": [
+      "MotoGP — Marc Márquez official rider biography",
+      "MotoGP — Marc Márquez 2025 World Champion"
+    ]
   },
   {
     "name": "Megan Rapinoe",
