@@ -1731,8 +1731,14 @@
     "name": "Sinan Canan",
     "cat": "Bilim",
     "origin": "Türkiye",
-    "desc": "Sinan Canan; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Sinan Canan, biyoloji ve fizyoloji eğitimini sinirbilim ekseninde bilim iletişimine taşıyan akademisyen, araştırmacı ve yazardır. 1972'de Ankara'da doğdu; 1995'te Hacettepe Üniversitesi Biyoloji Bölümü'nden mezun oldu. Ondokuz Mayıs Üniversitesi Tıp Fakültesi'nde Histoloji-Embriyoloji alanında yüksek lisans, Fizyoloji alanında doktora yaptı; stereoloji çalışmalarında yer aldı. 2004-2015 arasında çeşitli tıp fakültelerinde öğretim üyeliği yaptı ve 2010'da Tıbbi Fizyoloji doçenti oldu. 2016-2023 döneminde Üsküdar Üniversitesi Psikoloji Bölümü'nde öğretim üyesi ve Nöropazarlama Yüksek Lisans Programı Başkanı olarak görev yaptı. Akademik üretimin yanında karmaşıklık, öğrenme, zihin, yaratıcılık ve insan davranışı gibi konuları geniş kitlelere anlatmaya yöneldi; 2013'te [n]Beyin girişimini, 2017'de eşi Ayşe Müge Canan ile AçıkBeyin eğitim ve araştırma merkezini kurdu. 2023'te üniversiteden ayrılarak zamanını bilim iletişimi, yazarlık ve araştırmaya yoğunlaştırdı. 'İnsanın Fabrika Ayarları' yaklaşımı ve kitapları, nörobilim ile gündelik yaşam arasında anlaşılır bir köprü kurma çabasının merkezindedir. Kariyerindeki temel dönüşüm, klasik akademik rotayı halk için bilim anlatıcılığı ve bağımsız eğitim/araştırma girişimciliğiyle birleştirmesidir.",
+    "theme": "Tema: biyoloji · fizyoloji · sinirbilim · akademiden bilim iletişimine geçiş · AçıkBeyin · insan davranışı",
+    "sources": [
+      "Sinan Canan — resmi özgeçmiş, sinancanan.net/resume/",
+      "AçıkBeyin — Sinan Canan biyografisi, acikbeyin.com/egitmenler/sinan-canan/",
+      "Üsküdar Üniversitesi — Prof. Dr. Sinan Canan biyografi/haber arşivi",
+      "Hacettepe Üniversitesi — Prof. Dr. Sinan Canan söyleşi biyografisi"
+    ]
   },
   {
     "name": "Mehmet Toner",
