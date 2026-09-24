@@ -2471,57 +2471,89 @@
     "name": "Demis Hassabis",
     "cat": "Teknoloji",
     "origin": "Yabancı",
-    "desc": "Demis Hassabis; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Demis Hassabis, 1976 Londra doğumlu yapay zekâ araştırmacısı, girişimci ve eski çocuk satranç ustasıdır. Cambridge'de bilgisayar bilimi okudu; oyun geliştirme çalışmalarının ardından bilişsel sinirbilim doktorası yaptı. 2010'da Shane Legg ve Mustafa Suleyman ile DeepMind'i kurdu. DeepMind 2014'te Google tarafından satın alındı; Hassabis şirketin araştırma yönünü sürdürdü ve daha sonra Google DeepMind'in CEO'su oldu. AlphaGo'nun Go oyununda dünya düzeyindeki başarıları yapay zekânın karmaşık karar problemlerindeki gücünü gösterirken, AlphaFold biyolojide protein yapısı tahmininde büyük bir sıçrama yarattı. Hassabis ve John Jumper, AlphaFold2 çalışmaları nedeniyle 2024 Nobel Kimya Ödülü'nün yarısını paylaştı. Kariyerinin ana çizgisi, oyunlar ve insan bilişine duyduğu ilgiyi genel amaçlı öğrenen sistemler fikrine, oradan da yapay zekâyı bilimsel keşif aracı haline getiren çalışmalara taşımasıdır.",
+    "theme": "Tema: çocuk satranç ustası · Cambridge · oyun geliştirme · bilişsel sinirbilim · 2010 DeepMind · Google · AlphaGo · AlphaFold · 2024 Nobel Kimya",
+    "sources": [
+      "Google DeepMind — Demis Hassabis ve DeepMind tarihçesi",
+      "Nobel Prize — 2024 Chemistry Prize"
+    ]
   },
   {
     "name": "Jeff Bezos",
     "cat": "Girişim",
     "origin": "Yabancı",
-    "desc": "Jeff Bezos; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Jeff Bezos, 1964'te Albuquerque'de doğan Amerikalı girişimcidir. Princeton Üniversitesi'nde elektrik mühendisliği ve bilgisayar bilimi okudu; finans ve teknoloji şirketlerinde çalıştıktan sonra D. E. Shaw'da üst düzey görev aldı. İnternet kullanımındaki hızlı büyümeyi görerek 1994'te işinden ayrıldı ve Seattle'da Amazon'u kurdu. Şirket 1995'te çevrimiçi kitapçı olarak faaliyete geçti, ardından çok kategorili e-ticaret platformuna ve teknoloji altyapı şirketine dönüştü. Amazon Web Services, Kindle, lojistik ağı ve Prime gibi girişimler şirketin kapsamını genişletti. Bezos 2000'de uzay şirketi Blue Origin'i kurdu; 2021'de Amazon CEO'luğunu Andy Jassy'ye devrederek yönetim kurulu başkanı rolüne geçti. Kariyerinin ayırt edici çizgisi, internetin erken dönemindeki büyüme sinyalini uzun vadeli yatırım, müşteri odaklılık ve altyapı ölçeğiyle küresel bir teknoloji şirketine dönüştürmesidir.",
+    "theme": "Tema: Albuquerque · Princeton · D. E. Shaw · 1994 Amazon · çevrimiçi kitapçı · e-ticaret · AWS · Kindle · Prime · Blue Origin · uzun vadeli yatırım",
+    "sources": [
+      "Amazon — Jeff Bezos / company history",
+      "Princeton University — Jeff Bezos alumni records"
+    ]
   },
   {
     "name": "Reed Hastings",
     "cat": "Girişim",
     "origin": "Yabancı",
-    "desc": "Reed Hastings; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Reed Hastings, 1960 Boston doğumlu Amerikalı girişimcidir. Bowdoin College'da matematik okudu; Peace Corps ile Svaziland'da matematik öğretmenliği yaptıktan sonra Stanford'dan bilgisayar bilimi yüksek lisansı aldı. İlk şirketi Pure Software'ı 1991'de kurdu; şirketin büyüme sürecinde yönetim ve organizasyon konusunda edindiği deneyimler sonraki yaklaşımını etkiledi. 1997'de Marc Randolph ile Netflix'i kurdu. DVD'lerin posta yoluyla kiralanması modelinden aboneliğe, ardından internet üzerinden yayıncılığa ve özgün içerik üretimine geçiş Netflix'in dönüşümünün merkezinde yer aldı. Hastings yıllarca CEO olarak bu geçişi yönetti; 2020'de Ted Sarandos'u eş CEO yaptı ve 2023'te CEO görevinden ayrıldı. Netflix'in çalışma kültürü, yüksek çalışan özgürlüğü ve sorumluluğu üzerine kurulu yönetim yaklaşımıyla da tanındı. Kariyerinin ana çizgisi, mevcut iş modeline bağlı kalmak yerine teknolojik değişim geldikçe şirketi yeniden tasarlama isteğidir.",
+    "theme": "Tema: Boston · Bowdoin · Peace Corps · Stanford · Pure Software · 1997 Netflix · DVD · abonelik · streaming · özgün içerik · kültür ve dönüşüm",
+    "sources": [
+      "Netflix — Reed Hastings leadership history"
+    ]
   },
   {
     "name": "Brian Chesky",
     "cat": "Girişim",
     "origin": "Yabancı",
-    "desc": "Brian Chesky; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Brian Chesky, 1981'de New York eyaletinde doğan Amerikalı endüstriyel tasarımcı ve girişimcidir. Rhode Island School of Design'da endüstriyel tasarım okudu ve burada Joe Gebbia ile tanıştı. 2007'de San Francisco'daki evlerinin kirasını karşılamakta zorlandıkları sırada şehirdeki bir tasarım konferansının otelleri doldurması üzerine evlerine hava yatakları koyup konuk ağırladılar. Bu küçük deneme, Gebbia ve Nathan Blecharczyk ile birlikte Airbnb'nin temelini oluşturdu. Kurucular ilk dönemde finansman sıkıntısını aşmak için 2008 ABD seçimleri temalı kahvaltılık gevrek kutuları bile sattı. Chesky CEO olarak tasarım odaklı ürün yaklaşımını, güven mekanizmalarını ve ev sahipliği topluluğunu şirketin merkezine yerleştirdi. Airbnb zamanla milyonlarca ev sahibine ve milyarlarca misafir varışına ulaşan küresel bir platforma dönüştü. Kariyerinin ayırt edici tarafı, tasarım eğitimini yalnız görsel ürün geliştirmeye değil kullanıcı deneyimi, güven ve hizmet sisteminin tamamını tasarlamaya uygulamasıdır.",
+    "theme": "Tema: New York · RISD · endüstriyel tasarım · Joe Gebbia · 2007 ilk misafirler · hava yatağı · cereal dönemi · Airbnb · güven · tasarım odaklı liderlik",
+    "sources": [
+      "Airbnb Investor Relations — Brian Chesky",
+      "Rhode Island School of Design — Brian Chesky biography"
+    ]
   },
   {
     "name": "Melanie Perkins",
     "cat": "Girişim",
     "origin": "Yabancı",
-    "desc": "Melanie Perkins; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Melanie Perkins, Perth'te büyüyen Avustralyalı teknoloji girişimcisidir. University of Western Australia'da eğitim görürken öğrencilere tasarım programlarını öğretmesi, profesyonel yazılımların öğrenilmesinin gereğinden zor olduğu fikrini güçlendirdi. Cliff Obrecht ile 2007'de çevrimiçi okul yıllığı tasarım platformu Fusion Books'u kurdu. Bu deneyim, daha geniş kitlelerin tarayıcı üzerinden kolayca tasarım yapabileceği bir platform fikrine dönüştü. Perkins ve Obrecht, yatırımcı bulmak için yıllarca çok sayıda ret aldı; Cameron Adams'ın teknik kurucu olarak katılmasıyla Canva 2013'te kullanıma açıldı. Şirket sürükle-bırak tasarımı, şablonlar ve ekip çalışması araçlarını tek platformda birleştirerek dünya çapında büyüdü. Perkins CEO olarak ürünün karmaşık tasarım araçlarını herkes için erişilebilir hale getirme vizyonunu sürdürdü. Kariyerinin ana teması, öğretirken fark ettiği somut kullanıcı problemini küçük bir niş ürünle test edip küresel bir tasarım platformuna dönüştürmesi ve uzun yatırımcı retlerine rağmen fikri sürdürmesidir.",
+    "theme": "Tema: Perth · tasarım öğretimi · Fusion Books · Cliff Obrecht · yatırımcı retleri · Cameron Adams · 2013 Canva · sürükle-bırak tasarım · küresel platform",
+    "sources": [
+      "Canva — company and founder history",
+      "BBC — Melanie Perkins profile"
+    ]
   },
   {
     "name": "Sara Blakely",
     "cat": "Girişim",
     "origin": "Yabancı",
-    "desc": "Sara Blakely; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Sara Blakely, 1971 Clearwater, Florida doğumlu Amerikalı mucit ve girişimcidir. Florida State University'de iletişim okudu; hukuk fakültesi giriş sınavında istediği sonucu alamayınca kariyer planı değişti. Yedi yıl boyunca kapı kapı faks makinesi sattı. Beyaz pantolonun altında daha düzgün görünmesini istediği külotlu çorabın ayak kısmını kesmesi, Spanx fikrini doğurdu. Ürünü geliştirmek için kendi birikiminden 5.000 dolar kullandı, patent sürecinin önemli bölümünü kendisi yürüttü ve üretici bulmak için çok sayıda ret aldı. Spanx 2000'de piyasaya çıktı; Blakely dış yatırım almadan şirketi büyüttü ve ilk 21 yıl yüzde 100 sahipliğini korudu. 2006'da kadınların eğitim ve girişimciliğini destekleyen vakfını kurdu; 2024'te Sneex markasını başlattı. Hikâyesinin merkezinde başarısızlığı kaçınılacak bir sonuç yerine öğrenme aracı olarak görmesi, satış deneyimini doğrudan ürün geliştirme ve müşteri anlatısına çevirmesi vardır.",
+    "theme": "Tema: Clearwater · Florida State · hukuk hayalinden dönüş · faks satışı · 5.000 dolar · Spanx · patent · üretici retleri · kadın girişimciliği · Sneex",
+    "sources": [
+      "National Inventors Hall of Fame — Sara Blakely",
+      "Stanford Graduate School of Business — Sara Blakely",
+      "Sara Blakely Foundation — founder history"
+    ]
   },
   {
     "name": "Whitney Wolfe Herd",
     "cat": "Girişim",
     "origin": "Yabancı",
-    "desc": "Whitney Wolfe Herd; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Whitney Wolfe Herd, 1989'da Utah'ta doğan Amerikalı teknoloji girişimcisidir. Southern Methodist University'de uluslararası çalışmalar eğitimi aldı. Mobil flört uygulamalarının erken döneminde Tinder'ın kurucu ekibinde ve pazarlama liderliğinde görev yaptı; 2014'te şirketten ayrıldı. Aynı yıl Bumble'ı kurdu. Bumble'ın ilk ayırt edici tasarımı, heteroseksüel eşleşmelerde ilk mesajı kadının göndermesi üzerine kuruluydu; şirket daha sonra arkadaşlık ve profesyonel bağlantı alanlarına genişledi. Bumble 2021'de halka açıldığında Wolfe Herd 31 yaşındaydı ve ABD'de bir şirketi halka arz eden en genç kadın CEO olarak kayıtlara geçti. 2024'te CEO görevinden Executive Chair rolüne geçti, Mart 2025'te yeniden CEO oldu. Kariyerinin belirleyici çizgisi, önceki sektör deneyiminden gördüğü kullanıcı ve kültür sorunlarını yeni ürünün temel etkileşim kuralını değiştirerek çözmeye çalışması ve bunu küresel bir tüketici teknolojisi şirketine dönüştürmesidir.",
+    "theme": "Tema: Utah · SMU · Tinder · 2014 ayrılık · Bumble · kadınların ilk adımı · BFF/Bizz · 2021 halka arz · CEO · 2025 dönüş",
+    "sources": [
+      "Bumble Investor Relations — Whitney Wolfe Herd",
+      "Bumble — founder letter",
+      "Texas Business Hall of Fame — Whitney Wolfe Herd"
+    ]
   },
   {
     "name": "Daniel Ek",
     "cat": "Girişim",
     "origin": "Yabancı",
-    "desc": "Daniel Ek; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Daniel Ek, 1983 Stockholm doğumlu İsveçli teknoloji girişimcisidir. Genç yaşta web siteleri geliştirerek para kazanmaya başladı ve teknoloji şirketlerinde çeşitli görevler üstlendi. Advertigo adlı çevrimiçi reklam şirketini kurdu; şirket Tradedoubler tarafından satın alındı. Ek, müzik korsanlığının yaygın olduğu dönemde kullanıcıların ücretsiz korsan hizmetlerden daha iyi bir deneyime sahip yasal ürüne geçebileceği fikrinden hareketle Martin Lorentzon ile 2006'da Spotify'ı kurdu. Spotify 2008'de Avrupa'da kullanıma açıldı; reklam destekli ücretsiz katman ile ücretli aboneliği bir arada sunarak streaming müzik modelinin küresel ölçekte yaygınlaşmasında merkezi rol oynadı. Şirket 2018'de New York Borsası'na doğrudan kotasyonla girdi. Ek 2025 sonuna kadar CEO olarak görev yaptı; 1 Ocak 2026'dan itibaren Executive Chairman rolüne geçerek uzun vadeli stratejiye odaklandı. Kariyerinin ana çizgisi, korsanlığın yarattığı dağıtım krizini yalnız hukuki sorun değil daha iyi kullanıcı deneyimi ve yeni iş modeli gerektiren teknoloji problemi olarak ele almasıdır.",
+    "theme": "Tema: Stockholm · genç yazılımcı · Advertigo · Martin Lorentzon · 2006 Spotify · streaming · freemium · 2018 direct listing · 2026 Executive Chairman",
+    "sources": [
+      "Spotify Investor Relations — Daniel Ek"
+    ]
   },
   {
     "name": "Drew Houston",
