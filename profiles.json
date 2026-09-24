@@ -1718,8 +1718,14 @@
     "name": "Ali Nesin",
     "cat": "Bilim",
     "origin": "Türkiye",
-    "desc": "Ali Nesin; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Ali Nesin, matematiği yalnız akademik bir uzmanlık değil, geniş kitlelerle paylaşılması gereken bir düşünme kültürü olarak ele alan matematikçi ve eğitimcidir. İstanbul'da doğdu; ortaöğreniminin ardından Paris VII Üniversitesi'nde matematik okudu ve Yale Üniversitesi'nde model teori ile cebir alanlarında doktorasını tamamladı. Berkeley, Notre Dame ve UC Irvine'daki akademik çalışmalarından sonra 1995'te babası Aziz Nesin'in ölümünün ardından Türkiye'ye dönerek Nesin Vakfı'nın yönetimini üstlendi. 1996'da İstanbul Bilgi Üniversitesi Matematik Bölümü'nün kuruluşunda öncü oldu. Yıllarca düzenlediği yaz okullarından edindiği deneyimi 2007'de Şirince'de kurduğu Nesin Matematik Köyü'ne taşıdı; gönüllü akademisyenlerle yoğun, sınav merkezli olmayan bir matematik öğrenme ortamı oluşturdu. Matematik Dünyası dergisinin yayın çalışmalarını yürüttü, çok sayıda ders notu, popüler ve akademik matematik metni üretti. Matematik eğitimine katkıları 2015 Vehbi Koç Ödülü ve 2018'de Uluslararası Matematik Birliği'nin Leelavati Ödülü ile uluslararası ölçekte tanındı. Onun yolculuğundaki belirgin kırılma noktası, ABD'deki akademik kariyerini sürdürmek yerine Türkiye'ye dönerek araştırma, yayıncılık, vakıf çalışmaları ve alternatif matematik eğitimini aynı eksende birleştirmesidir.",
+    "theme": "Tema: akademik kariyer · Türkiye'ye dönüş · eğitimde alternatif model · Matematik Köyü · matematiği topluma yayma",
+    "sources": [
+      "Ali Nesin özgeçmişi — alinesin.org/about.html",
+      "İstanbul Bilgi Üniversitesi — 2018 Leelavati Ödülü duyurusu",
+      "Vehbi Koç Vakfı — Nesin Matematik Köyü / Vehbi Koç Ödülü",
+      "Nesin Yayınevi — Ali Nesin biyografisi"
+    ]
   },
   {
     "name": "Sinan Canan",
