@@ -1744,8 +1744,14 @@
     "name": "Mehmet Toner",
     "cat": "Bilim",
     "origin": "Türkiye",
-    "desc": "Mehmet Toner; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Mehmet Toner, makine mühendisliğinden tıbbi mühendisliğe geçerek mühendislik ile klinik tıp arasındaki sınırda çalışan Türk biyomedikal mühendisidir. 1958'de İstanbul'da doğdu. İstanbul Teknik Üniversitesi'nde Makine Mühendisliği lisansını tamamladı; 1985'te MIT'den aynı alanda yüksek lisans, 1989'da Harvard-MIT Health Sciences and Technology programından Tıbbi Mühendislik doktorası aldı. Doktorasının ardından Massachusetts General Hospital ve Harvard Medical School kadrosuna katıldı; 1996'da doçent, 2002'de profesör oldu. Massachusetts General Hospital'da mühendislik-tıp işbirliğini kurumsallaştıran Center for Engineering in Medicine'ın kurucuları arasında yer aldı ve NIH destekli BioMEMS Resource Center'ı kurdu. Araştırmaları hücre ve doku kriyoprezervasyonu, mikroakışkan sistemler, doku mühendisliği, yapay organlar ve dolaşımdaki tümör hücrelerinin ayrıştırılması gibi alanları birleştirir. Özellikle nadir kanser hücrelerini kandan yakalamaya yönelik mikroçip teknolojileri, mühendislik araçlarını doğrudan klinik problemlere uygulayan yaklaşımının güçlü örneklerindendir. Çok sayıda patent, bilimsel yayın ve biyoteknoloji/medikal cihaz girişiminde yer alan Toner'in kariyerindeki belirleyici çizgi, klasik makine mühendisliği eğitimini biyoloji ve tıbbın zor problemlerini çözmek için disiplinler arası bir araca dönüştürmesidir.",
+    "theme": "Tema: makine mühendisliğinden tıbba · Harvard-MIT · kriyobiyoloji · mikroakışkanlar · BioMEMS · kanser tanısı · disiplinler arası inovasyon",
+    "sources": [
+      "Mass General Research Institute — Mehmet Toner, PhD araştırmacı profili",
+      "Harvard-MIT Health Sciences and Technology — Mehmet Toner faculty profile",
+      "İstanbul Teknik Üniversitesi — Prof. Dr. Mehmet Toner fahri doktora biyografisi",
+      "ASME — H.R. Lissner Medal / Mehmet Toner"
+    ]
   },
   {
     "name": "Mehmet Özdoğan",
