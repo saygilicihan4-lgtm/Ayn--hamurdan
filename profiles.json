@@ -2384,57 +2384,88 @@
     "name": "Guido van Rossum",
     "cat": "Teknoloji",
     "origin": "Yabancı",
-    "desc": "Guido van Rossum; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Guido van Rossum, Hollanda'da büyüyen ve Amsterdam Üniversitesi'nde matematik ile bilgisayar bilimi eğitimi alan yazılım geliştiricisidir. Mezuniyet sonrası CWI'da ABC programlama dili ve Amoeba dağıtık işletim sistemi üzerinde çalıştı. 1990'da CWI'da çalışırken yan proje olarak Python'u geliştirmeye başladı; dilin okunabilirlik, sadelik ve geliştirici verimliliğine verdiği önem zamanla Python'u eğitimden web geliştirmeye, veri bilimi ve yapay zekâya kadar çok geniş bir alana taşıdı. 1995'te ABD'ye geçti; Google'da Senior Staff Engineer, Dropbox'ta Principal Engineer olarak çalıştı. Python topluluğunda uzun yıllar 'Benevolent Dictator For Life' rolünü üstlendi ve 2018'de bu görevden çekildi. 2019'daki kısa emekliliğinin ardından 2020'de Microsoft'a Distinguished Engineer olarak katıldı; kendi güncel biyografisine göre 2026'da bu görevden ayrılarak yeniden emekli oldu. Mirası tek bir dil yaratmanın ötesinde, açık kaynak topluluğunda dil tasarımı, okunabilirlik ve ortak karar kültürü üzerinde kalıcı etki kurmasıdır.",
+    "theme": "Tema: Hollanda · Amsterdam Üniversitesi · CWI · ABC · 1990 Python · açık kaynak · BDFL · Google · Dropbox · Microsoft · 2026 emeklilik",
+    "sources": [
+      "Guido van Rossum — resmi kısa biyografi"
+    ]
   },
   {
     "name": "James Gosling",
     "cat": "Teknoloji",
     "origin": "Yabancı",
-    "desc": "James Gosling; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "James Gosling, 1955'te Calgary'de doğan Kanadalı bilgisayar bilimcisidir. University of Calgary'de bilgisayar bilimi okudu, Carnegie Mellon University'de doktora yaptı. Sun Microsystems'ta çalışırken 1990'ların başındaki Green Project kapsamında başlangıçta Oak adı verilen dili tasarlayan ekibin merkezinde yer aldı; dil daha sonra Java adını aldı. Java'nın sanal makine yaklaşımı ve platformlar arasında taşınabilirliği, internet çağında kurumsal yazılım ve mobil sistemler dahil çok geniş bir ekosistemin temel taşlarından biri oldu. Gosling ayrıca Emacs türevleri, pencere sistemleri ve dağıtık sistemlerle ilgili çalışmalar yaptı. Sun'ın Oracle tarafından satın alınmasından sonra Oracle'dan ayrıldı; Google, Liquid Robotics ve Amazon Web Services gibi kuruluşlarda görev aldı. Kariyerinin ayırt edici yönü, programlama dilini yalnız sözdizimi olarak değil farklı donanım ve işletim sistemlerinde çalışabilecek bir yazılım platformunun çekirdeği olarak tasarlamasıdır.",
+    "theme": "Tema: Calgary · Carnegie Mellon · Sun Microsystems · Green Project · Oak · Java · taşınabilirlik · sanal makine · teknoloji endüstrisi",
+    "sources": [
+      "National Academy of Engineering — James Gosling records",
+      "Computer History Museum — Java and James Gosling archives"
+    ]
   },
   {
     "name": "Dennis Ritchie",
     "cat": "Teknoloji",
     "origin": "Yabancı",
-    "desc": "Dennis Ritchie; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Dennis MacAlistair Ritchie, 1941'de New York eyaletinde doğan Amerikalı bilgisayar bilimcisiydi. Harvard'da fizik eğitimi aldı ve 1967'de Bell Labs'a katıldı. Multics projesinin ardından Ken Thompson ile yeni bir işletim sistemi yaklaşımı üzerinde çalıştı. Thompson'ın B dilinden hareketle 1972 civarında C programlama dilini geliştirdi. UNIX'in C ile yeniden yazılması işletim sisteminin farklı donanımlara taşınmasını büyük ölçüde kolaylaştırdı; böylece C ve UNIX birbirini güçlendiren iki temel teknolojiye dönüştü. Ritchie daha sonra Plan 9 ve Inferno gibi işletim sistemi araştırmalarında liderlik yaptı. Thompson ile 1983 ACM Turing Award'ı ve 1998 ABD National Medal of Technology dahil önemli ödüller aldı. 2007'de Bell Labs'tan emekli oldu ve 2011'de öldü. Mirası, modern işletim sistemlerinin, derleyicilerin ve sayısız programlama dilinin üzerinde yükseldiği C ve UNIX ekosisteminin kurulmasındaki belirleyici rolüdür.",
+    "theme": "Tema: Harvard · Bell Labs · Multics · Ken Thompson · C dili · UNIX · taşınabilir işletim sistemi · Turing Award · Plan 9 · Inferno",
+    "sources": [
+      "Nokia Bell Labs — Dennis Ritchie Biography",
+      "National Inventors Hall of Fame — Dennis Ritchie"
+    ]
   },
   {
     "name": "Ken Thompson",
     "cat": "Teknoloji",
     "origin": "Yabancı",
-    "desc": "Ken Thompson; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Kenneth Lane Thompson, 1943'te New Orleans'ta doğan Amerikalı bilgisayar bilimcisidir. UC Berkeley'de elektrik mühendisliği lisans ve yüksek lisans derecelerini aldıktan sonra 1966'da Bell Labs'a katıldı. Multics projesinden edindiği deneyimin ardından 1969'da ilk UNIX sistemini geliştirdi; 1970'te Dennis Ritchie'nin C diline giden yolu açan B programlama dilini yazdı. UNIX'in PDP-11'e taşınması, C ile yeniden yazılması ve pipe mekanizmasının sisteme dahil edilmesi gibi adımlarda merkezi rol oynadı. Bilgisayar satrancı için Belle sistemini geliştirdi; daha sonra Plan 9 çalışmalarına katıldı. Dennis Ritchie ile 1983 Turing Award ve 1998 National Medal of Technology ödüllerini paylaştı. Bell Labs'tan ayrıldıktan sonra Google'da Rob Pike ve Robert Griesemer ile Go programlama dilinin tasarımcılarından biri oldu. Kariyeri, UNIX'ten programlama dillerine kadar bilgisayar sistemlerini daha küçük, bileşenlere ayrılabilir ve pratik hale getiren mühendislik yaklaşımıyla öne çıkar.",
+    "theme": "Tema: New Orleans · UC Berkeley · Bell Labs · Multics · 1969 UNIX · B dili · pipes · Belle · Turing Award · Plan 9 · Google · Go",
+    "sources": [
+      "Nokia Bell Labs — Ken Thompson Biography"
+    ]
   },
   {
     "name": "Margaret Hamilton",
     "cat": "Teknoloji",
     "origin": "Yabancı",
-    "desc": "Margaret Hamilton; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Margaret Hamilton, 1936'da Indiana'da doğan Amerikalı bilgisayar bilimcisi ve yazılım mühendisidir. Earlham College'da matematik eğitiminin ardından MIT çevresindeki bilgisayar projelerinde çalışmaya başladı. NASA'nın Apollo programı için MIT Instrumentation Laboratory'nin geliştirdiği uçuş yazılımında görev aldı ve daha sonra Software Engineering Division'ı yönetti. Ekibi, Apollo komuta ve ay modüllerindeki yerleşik yazılımın güvenilir biçimde çalışmasından sorumluydu. Apollo 11'in Ay'a inişi sırasında bilgisayarın aşırı yük uyarılarına rağmen kritik görevleri önceliklendirerek çalışmaya devam etmesi, ekibin hata algılama ve önceliklendirme yaklaşımının önemini görünür kıldı. Hamilton daha sonra Higher Order Software ve Hamilton Technologies şirketlerini kurdu. NASA ve MIT kaynakları onun 'software engineering' kavramının yaygınlaşmasında önemli rol oynadığını belirtir. Mirası, yazılımı donanımın ikincil parçası değil, insan hayatının bağlı olduğu sistemlerde kendi mühendislik disiplini ve güvenilirlik yöntemleri olan temel bir alan olarak ele almasıdır.",
+    "theme": "Tema: Indiana · matematik · MIT · Apollo · uçuş yazılımı · Apollo 11 · hata toleransı · software engineering · girişimcilik",
+    "sources": [
+      "NASA Science — Margaret Hamilton",
+      "MIT News — Margaret Hamilton's Apollo software history"
+    ]
   },
   {
     "name": "Fei-Fei Li",
     "cat": "Teknoloji",
     "origin": "Yabancı",
-    "desc": "Fei-Fei Li; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Fei-Fei Li, bilgisayarlı görü ve yapay zekâ alanındaki çalışmalarıyla tanınan bilgisayar bilimcisidir. Princeton'da fizik lisansını 1999'da yüksek onurla tamamladı, 2005'te Caltech'ten elektrik mühendisliği doktorası aldı. Illinois ve Princeton'daki akademik görevlerinin ardından 2009'da Stanford'a katıldı; 2013-2018 arasında Stanford AI Lab direktörlüğünü yürüttü. En etkili çalışmalarından biri, milyonlarca etiketli görüntüyü büyük ölçekli görsel tanıma araştırmasına açan ImageNet ve ImageNet Challenge'dır; Stanford, bu veri ve kıyaslama çalışmasını modern derin öğrenme devriminin önemli itici güçlerinden biri olarak tanımlar. 2017-2018'de Google Cloud'da VP ve Chief Scientist of AI/ML olarak görev yaptı. Stanford Human-Centered AI Institute'un kurucu liderlerinden oldu ve AI4ALL'ı kurarak yapay zekâ eğitiminde kapsayıcılığı destekledi. Güncel Stanford biyografisinde World Labs'in kurucu ortağı ve CEO'su olarak da yer almaktadır. Kariyerinin ana çizgisi, bilgisayarların dünyayı görsel veriden öğrenebilmesi için veri ölçeğini büyütürken yapay zekânın insan merkezli gelişimini de araştırma gündeminin parçası yapmasıdır.",
+    "theme": "Tema: Princeton fizik · Caltech · Stanford · ImageNet · ImageNet Challenge · derin öğrenme · Google Cloud · Stanford HAI · AI4ALL · World Labs",
+    "sources": [
+      "Stanford Profiles — Fei-Fei Li",
+      "Stanford HAI — Fei-Fei Li"
+    ]
   },
   {
     "name": "Geoffrey Hinton",
     "cat": "Teknoloji",
     "origin": "Yabancı",
-    "desc": "Geoffrey Hinton; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Geoffrey Hinton, 1947'de Londra'da doğan Britanyalı-Kanadalı bilgisayar bilimcisi ve bilişsel psikologdur. Cambridge'de deneysel psikoloji okudu, 1978'de Edinburgh Üniversitesi'nde yapay zekâ doktorasını tamamladı. Carnegie Mellon'daki akademik dönemin ardından 1987'de University of Toronto'ya geçti; 1998-2001 arasında University College London'daki Gatsby Computational Neuroscience Unit'in kuruluşunda görev aldı ve sonra Toronto'ya döndü. Yapay sinir ağlarının öğrenme yöntemlerine ilişkin onlarca yıllık çalışmaları, derin öğrenmenin yükselişinin bilimsel temelini oluşturdu. 1980'lerde Boltzmann machine üzerinde çalıştı; sonraki kuşak öğrencileri ve işbirlikçileriyle sinir ağlarının görüntü ve konuşma tanıma gibi alanlarda yeniden merkezî hale gelmesine katkı verdi. Yoshua Bengio ve Yann LeCun ile 2018 ACM Turing Award'ı paylaştı. John Hopfield ile 2024 Nobel Fizik Ödülü'nü, yapay sinir ağlarıyla makine öğrenmesini mümkün kılan temel keşif ve icatlar nedeniyle aldı. Mirası, uzun süre ana akımın dışında kalan sinir ağı yaklaşımını deneysel ve matematiksel çalışmalarla modern yapay zekânın merkezine taşımasıdır.",
+    "theme": "Tema: Londra · Cambridge · Edinburgh · Toronto · sinir ağları · Boltzmann machine · derin öğrenme · 2018 Turing Award · 2024 Nobel Fizik",
+    "sources": [
+      "Nobel Prize — Geoffrey Hinton Facts 2024",
+      "Nobel Prize — Geoffrey Hinton biography"
+    ]
   },
   {
     "name": "Yann LeCun",
     "cat": "Teknoloji",
     "origin": "Yabancı",
-    "desc": "Yann LeCun; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Yann LeCun, 1960'ta Fransa'da doğan bilgisayar bilimcisidir. ESIEE Paris'te mühendislik eğitimi aldı ve 1987'de Sorbonne'da doktora yaptı. Toronto'daki doktora sonrası çalışmasının ardından 1988'de AT&T Bell Labs'a katıldı. Burada el yazısı ve belge tanıma problemleri üzerinde çalışırken convolutional neural network yaklaşımını geliştiren öncü araştırmalar yaptı; bu teknikler daha sonra modern bilgisayarlı görünün temel araçlarından biri haline geldi. 2003'te NYU'ya profesör olarak katıldı, NYU Center for Data Science'ın kurucu direktörlüğünü yaptı. 2013'te Facebook AI Research'ü kurdu ve Meta'da uzun yıllar Chief AI Scientist olarak görev yaptı. Geoffrey Hinton ve Yoshua Bengio ile 2018 ACM Turing Award'ı derin sinir ağlarını bilişimin kritik bileşenlerinden biri haline getiren kavramsal ve mühendislik atılımları nedeniyle paylaştı. 2026 itibarıyla NYU profesörlüğünü sürdürürken AMI Labs'in kurucu/başkanlık rolünü üstlenmiştir. Kariyerinin belirleyici çizgisi, sinir ağlarının popüler olmadığı dönemlerde convolutional modeller üzerinde ısrarla çalışıp bu yaklaşımın daha sonra bilgisayarlı görü ve modern yapay zekânın temel teknolojilerinden birine dönüşmesidir.",
+    "theme": "Tema: Fransa · ESIEE · Sorbonne · Bell Labs · convolutional neural networks · belge tanıma · NYU · FAIR · Turing Award · AMI Labs",
+    "sources": [
+      "NYU Center for Data Science — Yann LeCun",
+      "NYU Tandon — Yann LeCun Turing Award",
+      "NYU Tandon — Yann LeCun 2026 biography"
+    ]
   },
   {
     "name": "Demis Hassabis",
