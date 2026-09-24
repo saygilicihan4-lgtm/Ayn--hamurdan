@@ -3073,57 +3073,85 @@
     "name": "Megan Rapinoe",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Megan Rapinoe; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Megan Rapinoe, 1985 Redding, California doğumlu Amerikalı futbolcudur. İkiz kardeşi Rachael ile büyüdü ve University of Portland'da oynarken 2005 NCAA şampiyonluğu yaşadı. Üniversite döneminde iki ACL sakatlığından geri döndü. ABD A Milli Takımı'na 2006'da girdi; 2011 Dünya Kupası çeyrek finalinde Brezilya'ya karşı uzatmanın son anlarında Abby Wambach'a yaptığı ikonik orta takımın geri dönüşünün merkezindeydi. 2012 Londra Olimpiyatları'nda altın madalya kazandı; 2015 ve 2019 Dünya Kupası şampiyonu oldu. 2019 turnuvasında altı golle Golden Boot'u ve turnuvanın en iyi oyuncusuna verilen Golden Ball'u kazandı; aynı yıl FIFA The Best ve Ballon d'Or Féminin ödüllerini aldı. Kariyerini 203 milli maç, 63 gol ve 73 asistle tamamladı ve 2023 sonunda profesyonel futboldan emekli oldu. Saha dışında eşit ücret ve LGBTQ+ hakları gibi konulardaki savunuculuğuyla tanındı; 2022'de Presidential Medal of Freedom aldı. Kariyerinin ana çizgisi, ciddi diz sakatlıklarından dönerek büyük turnuvaların belirleyici oyuncularından birine dönüşmesi ve sporcu platformunu toplumsal konulara taşımasıdır.",
+    "theme": "Tema: Redding · University of Portland · ACL dönüşleri · 2011 Dünya Kupası · Londra 2012 · 2015/2019 şampiyonluk · 2019 Golden Boot/Golden Ball · eşit ücret · 2023 emeklilik",
+    "sources": [
+      "U.S. Soccer — Megan Rapinoe official profile",
+      "U.S. Soccer — Megan Rapinoe retirement and career"
+    ]
   },
   {
     "name": "Alex Morgan",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Alex Morgan; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Alex Morgan, 1989 California doğumlu Amerikalı futbolcudur. University of California, Berkeley'de oynadıktan sonra 2011 WPS Draftı'nda Western New York Flash tarafından ilk sıradan seçildi. ABD A Milli Takımı'na 2010'da girdi ve 2011 Dünya Kupası'nda yükselişini hızlandırdı. 2012 Londra Olimpiyatları yarı finalinde Kanada'ya karşı uzatmanın sonlarında attığı kafa golü ABD'yi finale taşıdı; turnuvayı altın madalyayla tamamladı. 2015 ve 2019 Dünya Kupalarında şampiyon olan kadroların önemli hücum oyuncularındandı; 2019 açılış maçında Tayland'a beş gol attı. Kulüp kariyerinde ABD'nin yanı sıra Olympique Lyonnais ve Tottenham Hotspur formaları giydi, NWSL'de Orlando Pride ve San Diego Wave gibi takımlarda oynadı. Kadın futbolunda ücret ve çalışma koşulları tartışmalarında oyuncu liderlerinden biri oldu. 2024'te profesyonel futboldan emekli olduğunu açıkladı. Kariyerinin ana çizgisi, genç yaşta milli takımın tamamlayıcı hücumcusundan dünya şampiyonluklarının yüzlerinden birine dönüşmesi ve saha dışındaki oyuncu hakları çalışmalarını sportif kimliğiyle birlikte yürütmesidir.",
+    "theme": "Tema: California · UC Berkeley · 2011 draft · Londra 2012 · Kanada yarı final golü · 2015/2019 Dünya Kupası · Lyon · NWSL · oyuncu hakları · 2024 emeklilik",
+    "sources": [
+      "U.S. Soccer — Alex Morgan retirement and career"
+    ]
   },
   {
     "name": "Mia Hamm",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Mia Hamm; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Mia Hamm, 1972 Selma, Alabama doğumlu Amerikalı futbolcudur. Asker bir ailenin çocuğu olarak sık taşındı ve küçük yaşta futbola başladı. 15 yaşında ABD kadın milli takımına girerek dönemin en genç oyuncusu oldu. University of North Carolina'da dört NCAA şampiyonluğu kazandı. 1991'de henüz 19 yaşındayken ilk Kadınlar Dünya Kupası'nı kazanan ABD takımında yer aldı; 1999'da ikinci dünya şampiyonluğuna ulaştı. 1996 Atlanta ve 2004 Atina Olimpiyatlarında altın, 2000 Sydney'de gümüş madalya kazandı. 2001 ve 2002'de FIFA Women's World Player of the Year seçildi. 2004'te emekli olduğunda milli takım kariyerini 158 golle tamamladı; bu rakam yıllarca kadın-erkek uluslararası futbolun rekoruydu. Kardeşi Garrett'ın aplastik anemi nedeniyle ölümünün ardından Mia Hamm Foundation'ı kurarak kemik iliği/kan bağışı ve kadın sporlarına destek çalışmalarına yöneldi. Mirası yalnız istatistiklerinde değil, 1990'larda kadın futbolunu ABD'de ana akım spor kültürünün parçası haline getiren en görünür sporculardan biri olmasındadır.",
+    "theme": "Tema: askeri aile · 15 yaşında milli takım · UNC · 1991/1999 Dünya Kupaları · 1996/2004 olimpiyat altınları · 158 gol · FIFA yılın oyuncusu · Garrett · Mia Hamm Foundation",
+    "sources": [
+      "U.S. Olympic & Paralympic Museum — Mia Hamm",
+      "National Soccer Hall of Fame — Mia Hamm"
+    ]
   },
   {
     "name": "Sachin Tendulkar",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Sachin Tendulkar; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Sachin Tendulkar, 1973 Mumbai doğumlu Hint kriketçidir. Çocuk yaşta antrenör Ramakant Achrekar'ın gözetiminde yoğun biçimde çalıştı ve okul kriketindeki olağanüstü performanslarıyla dikkat çekti. 1989'da henüz 16 yaşındayken Pakistan'a karşı Hindistan formasıyla uluslararası ilk maçına çıktı. Sonraki 24 yıl boyunca Test ve ODI kriketinin merkezindeki vuruculardan biri oldu. 1998'de Avustralya'ya karşı performansları, 2003 Dünya Kupası'nda turnuvanın en çok koşu yapan oyuncusu olması ve 2010'da erkek ODI kriketinin ilk çift yüzlüğünü atması kariyerinin dönüm noktaları arasındadır. 2011'de Hindistan ile Dünya Kupası'nı kazandı. Uluslararası kariyerini 34.357 koşu ve tam 100 uluslararası yüzyılla tamamladı; her iki toplam da tarihsel ölçekte benzersiz kilometre taşlarıdır. 2013'te emekli oldu ve 2019'da ICC Hall of Fame'e alındı. Kariyerinin ana çizgisi, 16 yaşında dev bir ulusal beklentinin içine girip çeyrek yüzyıla yakın süre boyunca teknik disiplin, uyum ve süreklilikle bu baskıyı taşımasıdır.",
+    "theme": "Tema: Mumbai · Ramakant Achrekar · 16 yaşında Hindistan · 24 yıllık kariyer · 2003 Dünya Kupası · ilk ODI çift yüzlük · 2011 dünya şampiyonluğu · 34.357 koşu · 100 yüzyıl · ICC Hall of Fame",
+    "sources": [
+      "ICC — Sachin Tendulkar Hall of Fame"
+    ]
   },
   {
     "name": "Virat Kohli",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Virat Kohli; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Virat Kohli, 1988 Delhi doğumlu Hint kriketçidir. Genç yaşta West Delhi Cricket Academy'de yetişti; babasının 2006'daki ölümünün ertesi günü Delhi adına Ranji Trophy maçında sahaya çıkması, kariyerindeki erken disiplin örneklerinden biri olarak hatırlanır. 2008'de Hindistan U19 takımını Dünya Kupası şampiyonluğuna taşıdı ve aynı yıl ODI milli takımına girdi. 2011 Dünya Kupası'nı kazanan Hindistan kadrosunda yer aldı. Zamanla tüm formatlarda takımın temel vurucularından ve kaptanlarından biri oldu; Test kaptanlığında 68 maçın 40'ını kazanarak Hindistan'ın bu formattaki en başarılı kaptanı oldu ve 2018-19'da Avustralya'daki ilk Test seri zaferini yönetti. 2023 ODI Dünya Kupası'nda 765 koşuyla tek turnuva rekoru kırdı ve ODI'de 50 yüzyıla ulaşan ilk oyuncu oldu. 2024 T20 Dünya Kupası zaferinin ardından T20I kariyerini, 2025'te Test kariyerini noktaladı; 2026 itibarıyla ODI oynamayı sürdürüyor ve 2027 Dünya Kupası hedefini açıkça ifade ediyor. Kariyerinin ana çizgisi, yoğun rekabetçiliğini fiziksel hazırlık ve koşu üretiminde olağanüstü süreklilikle birleştirerek modern kriketin standartlarını yükseltmesidir.",
+    "theme": "Tema: Delhi · West Delhi Cricket Academy · aile kaybı · 2008 U19 Dünya Kupası · 2011 şampiyonluğu · kaptanlık · Avustralya seri zaferi · 2023 rekoru · format dönüşümü · 2027 hedefi",
+    "sources": [
+      "ICC — Virat Kohli career and Test records",
+      "ICC — Virat Kohli 2027 World Cup commitment"
+    ]
   },
   {
     "name": "Manny Pacquiao",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Manny Pacquiao; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Manny Pacquiao, 1978 Filipinler doğumlu profesyonel boksör ve kamu figürüdür. Yoksulluk içinde büyüdü ve genç yaşta ailesine destek olmak amacıyla Manila'ya giderek boksa yöneldi. 16 yaşında profesyonel kariyerine başladı; 1998'de flyweight dünya şampiyonluğunu kazandı. Los Angeles'ta antrenör Freddie Roach ile kurduğu ortaklık kariyerinin yükselişinde belirleyici oldu. Marco Antonio Barrera, Erik Morales, Juan Manuel Márquez, Oscar De La Hoya, Ricky Hatton ve Miguel Cotto gibi dönemin önemli isimleriyle yaptığı maçlarla daha ağır sıkletlere çıktı. Flyweight'ten super welterweight'e kadar sekiz farklı sıklette dünya şampiyonluğu elde eden ilk ve tek boksör oldu. 2019'da 40 yaşında Keith Thurman'ı yenerek welterweight dünya şampiyonluğu kazandı. Filipinler'de Temsilciler Meclisi ve Senato'da görev yaptı, 2022'de cumhurbaşkanlığına aday oldu. 2025'te International Boxing Hall of Fame'e alındı. Kariyerinin ana çizgisi, aşırı yoksulluktan başlayıp boy ve doğal sıklet dezavantajlarına rağmen hız, ayak çalışması ve agresif kombinasyonlarla sekiz sıkletlik benzersiz bir şampiyonluk yolculuğu kurmasıdır.",
+    "theme": "Tema: Filipinler · yoksulluk · 16 yaşında profesyonel · Freddie Roach · Barrera/Morales/Márquez · sekiz sıklet · 40 yaşında şampiyonluk · kamu hizmeti · 2025 Hall of Fame",
+    "sources": [
+      "World Boxing Council — International Boxing Hall of Fame Class of 2025"
+    ]
   },
   {
     "name": "Katie Ledecky",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Katie Ledecky; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Katie Ledecky, 1997 Washington, D.C. doğumlu Amerikalı yüzücüdür. Altı yaşında ağabeyiyle birlikte yüzmeye başladı; annesinin üniversite düzeyindeki yüzme geçmişi de erken gelişiminde etkili oldu. Nation's Capital Swim Club'da yetişti ve henüz 15 yaşındayken 2012 Londra Olimpiyatları'nda 800 metre serbestte altın madalya kazanarak uluslararası sahneye çıktı. 2013 Dünya Şampiyonası'nda dört altın, 2015'te beş altın kazanarak orta ve uzun mesafe serbest stilin baskın ismi oldu. Stanford University'de psikoloji eğitimi alırken NCAA rekorları kırdı ve takım şampiyonluklarına katkı verdi. Rio 2016, Tokyo 2020 ve Paris 2024'te olimpiyat başarılarını sürdürdü. Paris'te 800 metre serbestte üst üste dördüncü olimpiyat altınını kazanarak aynı bireysel yüzme yarışını dört Olimpiyatta üst üste kazanan ilk kadın oldu. 2024 sonunda olimpiyat toplamı dokuz altın, dört gümüş ve bir bronza ulaştı. 2025 Dünya Şampiyonası'nda 800 ve 1500 metre şampiyonluklarını yeniden kazandı. Kariyerinin özü, genç yaşta gelen üstün dayanıklılığı uzun yıllar boyunca teknik tutarlılık, yarış temposu kontrolü ve olağanüstü antrenman disipliniyle sürdürebilmesidir.",
+    "theme": "Tema: altı yaşında yüzme · Nation's Capital · 15 yaşında Londra altını · dünya şampiyonlukları · Stanford · Rio/Tokyo/Paris · dokuz olimpiyat altını · dört kez 800m · uzun mesafe hakimiyeti",
+    "sources": [
+      "Team USA — Katie Ledecky official biography",
+      "World Aquatics — Katie Ledecky results"
+    ]
   },
   {
     "name": "Naomi Osaka",
     "cat": "Spor",
     "origin": "Yabancı",
-    "desc": "Naomi Osaka; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Naomi Osaka, 1997 Osaka, Japonya doğumlu tenisçidir. Haitili bir baba ve Japon bir annenin çocuğu olarak üç yaşında ailesiyle ABD'ye taşındı; babası Leonard François, Venus ve Serena Williams'ın gelişiminden esinlenerek Naomi ile ablası Mari'yi tenis için eğitmeye başladı. Profesyonel kariyerinde 2016 Tokyo finali ve 2018 Indian Wells şampiyonluğu çıkışının habercisi oldu. 2018 US Open finalinde Serena Williams'ı yenerek Grand Slam tekler şampiyonluğu kazanan ilk Japon oyuncu oldu. 2019 Australian Open'ı da kazanarak dünya 1 numarasına yükseldi; 2020 US Open ve 2021 Australian Open ile ilk dört Grand Slam finalinin tamamını kazandı. 2021'de zihinsel sağlığını korumak amacıyla bazı medya yükümlülüklerinden ve turnuvalardan çekilmesi profesyonel sporda sporcu ruh sağlığı tartışmasını küresel gündeme taşıdı. Anne olduktan sonra 2024'te tura döndü; WTA kayıtlarına göre 2025 ve 2026'da yeniden önemli finallere ulaşıp sıralamada yükseldi. Kariyerinin ana çizgisi, iki kültürlü kimlik, erken Grand Slam hakimiyeti ve elit sporda zihinsel sağlık sınırlarını açıkça tartışmaya açmasıdır.",
+    "theme": "Tema: Osaka · Haiti-Japonya ailesi · üç yaşında ABD · Williams kardeşlerden ilham · 2018 Indian Wells · US Open · dünya 1 · dört Grand Slam · zihinsel sağlık · annelik sonrası dönüş",
+    "sources": [
+      "WTA — Naomi Osaka official profile"
+    ]
   },
   {
     "name": "Iga Świątek",
