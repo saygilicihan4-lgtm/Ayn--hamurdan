@@ -1771,8 +1771,14 @@
     "name": "Hatice Altuğ",
     "cat": "Bilim",
     "origin": "Türkiye",
-    "desc": "Hatice Altuğ; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Hatice Altuğ, nanofotoniği biyoloji ve tıbbi tanı problemleriyle birleştiren Türk fizikçi ve biyomühendislik profesörüdür. Bilkent Üniversitesi Fizik Bölümü'nü 2000'de tam burslu olarak bitirdi; Stanford Üniversitesi'nde Uygulamalı Fizik doktorasını tamamladı. Harvard Medical School Center for Engineering in Medicine'daki doktora sonrası çalışmasının ardından 2007'de Boston University'de öğretim üyesi oldu; 2013'te EPFL Biyomühendislik Enstitüsü'ne geçti ve 2020'de profesörlüğe yükseldi. EPFL'deki Bionanophotonic Systems Laboratory'de nanofotonik, plazmonik, optik biyosensörler, yüzey-güçlendirilmiş spektroskopi, mikroakışkanlar ve bakım-noktasında tanı sistemleri üzerinde çalışıyor. Araştırma yaklaşımının merkezinde ışığı nanoölçekte kontrol ederek biyomolekül, patojen ve canlı sistemleri etiketsiz, hızlı ve yüksek hassasiyetle algılayabilecek kompakt cihazlar geliştirmek bulunuyor. Çalışmaları 2011 PECASE, 2012 Optica Adolph Lomb Medal, 2016 ERC Consolidator Grant, 2019 ERC Proof-of-Concept Grant ve 2020 European Physical Society Emmy Noether Distinction gibi ödüllerle tanındı. Kariyerindeki temel çizgi, temel fizik eğitimini nanofotonik araçlar üzerinden gerçek dünyadaki biyosensör ve sağlık teknolojilerine dönüştürmesidir.",
+    "theme": "Tema: Bilkent · Stanford · Harvard · nanofotonik · biyosensörler · mikroakışkanlar · hassas tanı · temel fizikten sağlık teknolojisine",
+    "sources": [
+      "EPFL — Hatice Altug resmi akademik profili, people.epfl.ch/hatice.altug",
+      "EPFL Bionanophotonic Systems Laboratory — araştırma misyonu",
+      "Optica — Hatice Altug biyografisi ve Adolph Lomb Medal",
+      "EPFL — Hatice Altug CV / akademik özgeçmiş"
+    ]
   },
   {
     "name": "Daron Acemoğlu",
