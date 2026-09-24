@@ -2822,57 +2822,88 @@
     "name": "Lang Lang",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Lang Lang; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Lang Lang, 1982'de Shenyang'da doğan Çinli piyanist, eğitimci ve hayırseverdir. Üç yaşında piyanoya başladı, beş yaşından önce ilk resitalini verdi. Dokuz yaşında Beijing Central Conservatory'ye girdi; 13 yaşında genç müzisyenler için Tchaikovsky yarışmasında birincilik kazandı. Daha sonra Philadelphia'daki Curtis Institute of Music'te Gary Graffman ile çalıştı. 17 yaşındayken André Watts'ın yerine son anda Chicago Symphony Orchestra ile Tchaikovsky'nin Birinci Piyano Konçertosu'nu seslendirmesi uluslararası çıkışını sağladı. Dünya çapındaki konserlerinin yanı sıra 2008 Pekin Olimpiyatları açılışında milyarlarca izleyiciye ulaşması onu klasik müziğin en görünür isimlerinden biri yaptı. Lang Lang International Music Foundation aracılığıyla çocukların müzik eğitimine erişimini artırmaya odaklandı. Kariyerinin ana çizgisi, çok erken başlayan yoğun klasik eğitimini büyük sahnelerdeki virtüözlükle birleştirirken klasik müziği yeni ve genç dinleyicilere ulaştırma misyonuna dönüştürmesidir.",
+    "theme": "Tema: Shenyang · üç yaşında piyano · Beijing Conservatory · Tchaikovsky gençlik ödülü · Curtis · Gary Graffman · 17 yaşında büyük çıkış · Pekin 2008 · müzik eğitimi",
+    "sources": [
+      "Lang Lang — resmi biyografi",
+      "Lang Lang International Music Foundation"
+    ]
   },
   {
     "name": "Dolly Parton",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Dolly Parton; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Dolly Parton, 1946'da Tennessee'nin Smoky Mountains bölgesinde yoksul ve müzikle iç içe on iki çocuklu bir ailenin dördüncü çocuğu olarak doğdu. Beş yaşında şarkı yazmaya, 10 yaşında yerel radyo ve televizyonda şarkı söylemeye başladı; 13 yaşında Grand Ole Opry sahnesine çıktı. 1964'te lise mezuniyetinin hemen ardından Nashville'e taşındı. Porter Wagoner Show'daki ortaklığı onu ulusal çapta tanıttı, ancak kendi kariyerini kurmak için 1974'te ayrıldı; ayrılık süreci 'I Will Always Love You'ya ilham verdi. Jolene, Coat of Many Colors ve 9 to 5 gibi eserlerle country müziğin ötesinde kalıcı popüler kültür etkisi yarattı. Dollywood ve başka girişimlerle memleket bölgesinde istihdam oluşturdu. 1995'te babasının okuryazar olmamasından ilhamla başlattığı Imagination Library yüz milyonlarca ücretsiz çocuk kitabı dağıttı. Kariyerinin özü, Appalachian yoksulluğundan gelen kişisel deneyimleri şarkı anlatısına, girişimciliğe ve geniş ölçekli eğitim hayırseverliğine dönüştürmesidir.",
+    "theme": "Tema: Tennessee · 12 çocuklu yoksul aile · beş yaşında şarkı · Grand Ole Opry · Nashville · Porter Wagoner · Jolene · I Will Always Love You · Dollywood · Imagination Library",
+    "sources": [
+      "Dolly Parton — resmi biyografi",
+      "National Endowment for the Arts — Dolly Parton"
+    ]
   },
   {
     "name": "Bruno Mars",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Bruno Mars; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Bruno Mars, 1985 Honolulu doğumlu Amerikalı şarkıcı, söz yazarı, yapımcı ve multi-enstrümantalisttir. Peter Gene Hernandez adıyla müzisyen bir ailede büyüdü ve dört yaşından itibaren babası ile amcasının Hawaii gösterilerinde Elvis Presley taklidi yaparak sahne deneyimi kazandı. Los Angeles'a taşındıktan sonra solo sanatçı olarak hemen başarı bulamadı; söz yazarı ve yapımcı olarak çalıştı. Philip Lawrence ile ortaklığı sırasında Brandy'nin Long Distance şarkısını ve Flo Rida'nın Right Round hitini birlikte yazdı; B.o.B'nin Nothin' on You parçasındaki vokali onu geniş kitlelere tanıttı. 2010'da ilk solo dönemine geçti; Just the Way You Are ilk Grammy'sini getirdi. 24K Magic albümü 2018 Grammy'lerinde Album, Record ve Song of the Year dahil aday olduğu altı kategorinin tamamını kazandı. Anderson .Paak ile Silk Sonic projesi funk ve soul etkilerini yeni kuşağa taşıdı. Kariyerinin ana çizgisi, çocuk yaşta sahnede taklit ederek başlayan performans disiplinini söz yazarlığı, prodüksiyon ve farklı dönemlerin pop, R&B, funk ve soul dillerini sentezleyen bir sanatçılığa dönüştürmesidir.",
+    "theme": "Tema: Honolulu · müzisyen aile · dört yaşında Elvis · Los Angeles · söz yazarlığı · Nothin' on You · solo çıkış · Grammy · 24K Magic · Silk Sonic",
+    "sources": [
+      "Recording Academy / GRAMMY — Bruno Mars biography and awards"
+    ]
   },
   {
     "name": "Ed Sheeran",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Ed Sheeran; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Ed Sheeran, 1991'de İngiltere'de doğan şarkıcı ve söz yazarıdır. Suffolk'ta büyüdü; çocukluk ve gençlik yıllarında gitar çalıp şarkılar yazmaya başladı, küçük mekânlarda sürekli sahne alarak repertuvar ve performans deneyimi oluşturdu. Genç yaşta Londra'ya taşınıp açık mikrofon geceleri ve bağımsız EP'lerle kendi dinleyici kitlesini kurdu. 2011'de yayımlanan + albümü ve The A Team uluslararası çıkışını sağladı. Sonraki albümlerinde akustik şarkı yazarlığını pop prodüksiyonu ve loop pedal temelli tek kişilik sahne performansıyla birleştirdi. Thinking Out Loud ve Shape of You gibi parçalar küresel başarı elde etti. Şarkı yazarlığını kendi kayıtlarının ötesine taşıyarak başka büyük sanatçılar için de eserler yazdı. Kariyerinin ana çizgisi, küçük kulüplerde yoğun canlı performansla geliştirdiği doğrudan dinleyici ilişkisini, basit gitar-vokal çekirdeğini kaybetmeden stadyum ölçeğine taşımasıdır.",
+    "theme": "Tema: Suffolk · gitar ve şarkı yazımı · Londra · açık mikrofon · bağımsız EP · The A Team · + · loop pedal · küresel pop · stadyum performansı",
+    "sources": [
+      "Ed Sheeran — resmi sanatçı biyografisi",
+      "Recording Academy / GRAMMY — Ed Sheeran records"
+    ]
   },
   {
     "name": "Billie Eilish",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Billie Eilish; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Billie Eilish, 2001 Los Angeles doğumlu Amerikalı şarkıcı ve söz yazarıdır. Evde eğitim gördüğü yaratıcı bir aile ortamında büyüdü ve ağabeyi Finneas O'Connell ile evde müzik yazıp kaydetmeye başladı. Ocean Eyes'ın internette yayılması genç yaşta geniş dinleyici kitlesine ulaşmasını sağladı. 2019'daki When We All Fall Asleep, Where Do We Go? albümü ve Bad Guy küresel çıkışını pekiştirdi; prodüksiyonun büyük kısmı kardeşlerin ev ortamındaki çalışma biçiminden doğdu. 2020 Grammy Ödülleri'nde henüz 18 yaşındayken Album, Record, Song of the Year ve Best New Artist olmak üzere dört ana kategoriyi aynı gecede kazanan en genç sanatçı oldu. No Time to Die ve Barbie için yazdığı What Was I Made For? ile iki En İyi Özgün Şarkı Oscar'ı kazandı. Hit Me Hard and Soft ile kariyerini sürdürdü. Hikâyesinin ana çizgisi, pahalı stüdyo modeline ihtiyaç duymadan aile içi yaratıcı ortaklık ve özgün ses tasarımıyla yatak odası ölçeğindeki üretimi dünya popunun merkezine taşımasıdır.",
+    "theme": "Tema: Los Angeles · evde eğitim · Finneas · ev stüdyosu · Ocean Eyes · Bad Guy · 18 yaşında Grammy Big Four · iki Oscar · Hit Me Hard and Soft",
+    "sources": [
+      "Recording Academy / GRAMMY — Billie Eilish biography and awards"
+    ]
   },
   {
     "name": "Dua Lipa",
     "cat": "Sanat",
     "origin": "Yabancı",
-    "desc": "Dua Lipa; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Dua Lipa, Londra'da Kosovalı Arnavut bir ailede doğan İngiliz-Arnavut şarkıcı ve söz yazarıdır. Çocukluğunun bir bölümünü Kosova'da geçirdikten sonra müzik kariyeri hedefiyle genç yaşta Londra'ya döndü. İnternete cover videoları yükledi, modellik ve farklı işler yaparken demo kayıtları hazırladı. 2017 tarihli ilk albümü New Rules gibi hitlerle uluslararası çıkış yaptı. 2020'de yayımlanan Future Nostalgia, disco ve dance-pop etkilerini çağdaş prodüksiyonla birleştirdi ve Grammy'de Best Pop Vocal Album ödülünü kazandı. Turne, görsel kimlik ve dans performansını geliştirerek sahne sanatçılığını kariyerinin ayrı bir odağı haline getirdi. Kosova ile kültürel bağlarını Sunny Hill Festival ve vakıf çalışmaları üzerinden sürdürdü. Kariyerinin ana çizgisi, göçmen aile kimliği ve iki şehir arasında geçen gençlik deneyimini internet çağının bağımsız tanıtım araçlarıyla birleştirip küresel pop yıldızlığına dönüştürmesidir.",
+    "theme": "Tema: Londra · Kosovalı Arnavut aile · Kosova · Londra'ya dönüş · cover videoları · New Rules · Future Nostalgia · Grammy · sahne gelişimi · Sunny Hill",
+    "sources": [
+      "Recording Academy / GRAMMY — Dua Lipa records",
+      "Dua Lipa / Sunny Hill Foundation official information"
+    ]
   },
   {
     "name": "Toni Morrison",
     "cat": "Edebiyat",
     "origin": "Yabancı",
-    "desc": "Toni Morrison; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Toni Morrison, 1931'de Lorain, Ohio'da Siyah işçi sınıfı bir ailede Chloe Anthony Wofford adıyla doğan Amerikalı romancı, editör ve akademisyendi. Edebiyata erken ilgi duydu; Howard University'de beşeri bilimler, Cornell'de Amerikan edebiyatı eğitimi aldı. Üniversitelerde ders verdikten sonra Random House'ta yaklaşık yirmi yıl editör olarak çalıştı ve Siyah yazarların eserlerinin yayımlanmasında önemli rol oynadı. İlk romanı The Bluest Eye 1970'te yayımlandı. Song of Solomon ulusal çapta ününü büyüttü; kölelik sonrası travma, annelik ve hafızayı merkezine alan Beloved 1988 Pulitzer Kurgu Ödülü'nü kazandı. 1989'da Princeton'a katıldı ve Princeton Atelier'nin kurucu direktörü oldu. 1993'te Nobel Edebiyat Ödülü'nü aldı. 2019'da öldü. Morrison'ın mirası yalnız romanlarındaki şiirsel dilde değil, editör, öğretmen ve yazar olarak Afro-Amerikan deneyiminin edebiyatın merkezinde kendi tarihsel ve estetik ağırlığıyla yer almasını sağlamasındadır.",
+    "theme": "Tema: Lorain · işçi sınıfı aile · Howard · Cornell · Random House editörlüğü · The Bluest Eye · Song of Solomon · Beloved · Pulitzer · Princeton · 1993 Nobel",
+    "sources": [
+      "Nobel Prize — Toni Morrison biographical record",
+      "Princeton University — Toni Morrison faculty biography",
+      "Library of Congress — Toni Morrison"
+    ]
   },
   {
     "name": "Gabriel García Márquez",
     "cat": "Edebiyat",
     "origin": "Yabancı",
-    "desc": "Gabriel García Márquez; kamuya açık, doğrulanabilir biyografik kaynaklar temel alınarak yaşam yolculuğu ve kariyer dönüm noktalarıyla ele alınır.",
-    "theme": "Tema: başlangıç · emek · dönüm noktası · miras"
+    "desc": "Gabriel García Márquez, 1927'de Aracataca, Kolombiya'da doğan romancı, öykücü ve gazeteciydi. Çocukluğunda büyükanne ve büyükbabasının anlattığı aile hikâyeleri, siyasi hatıralar, batıl inançlar ve gündelik hayatla iç içe geçen olağanüstü olaylar daha sonra kurmaca dünyasının önemli kaynaklarından oldu. Hukuk öğrenimine başladı ancak eğitimini bırakarak gazeteciliğe yöneldi; El Universal, El Heraldo, El Espectador ve Prensa Latina gibi kuruluşlarda çalıştı, Paris ve New York dahil farklı şehirlerde muhabirlik yaptı. 1967'de yayımlanan One Hundred Years of Solitude uluslararası çıkışını sağladı; Macondo üzerinden aile, tarih, şiddet, yalnızlık ve Latin Amerika'nın toplumsal hafızasını gerçek ile olağanüstüyü doğal biçimde birleştirerek anlattı. The Autumn of the Patriarch ve Love in the Time of Cholera konumunu pekiştirdi. 1982 Nobel Edebiyat Ödülü'nü roman ve öykülerinde fantastik ile gerçekliği bir kıtanın yaşamı ve çatışmalarıyla birleştirmesi nedeniyle aldı. 2014'te Mexico City'de öldü. Kariyerinin özü, gazetecilikteki gerçeklik gözlemini sözlü aile anlatıları ve edebi hayal gücüyle birleştirerek büyülü gerçekçiliğin dünya çapındaki en etkili temsilcilerinden biri olmasıdır.",
+    "theme": "Tema: Aracataca · aile hikâyeleri · hukuk eğitimini bırakış · gazetecilik · Paris ve New York · 1967 One Hundred Years of Solitude · Macondo · büyülü gerçekçilik · 1982 Nobel · Mexico City",
+    "sources": [
+      "Nobel Prize — Gabriel García Márquez facts",
+      "Library of Congress — Gabriel García Márquez biography"
+    ]
   },
   {
     "name": "Jorge Luis Borges",
